@@ -1,0 +1,142 @@
+//
+// ie9 ftw!
+//
+
+.ie9 {
+
+	body {
+		min-width: 1100px;
+		}
+		
+	body::after{
+		content: "Internet Explorer 9";
+		display: block;
+		padding-top: 10px;
+		padding-bottom: 5px;
+		float: right;
+		font-size: 8px;
+		}
+
+	.container {
+		padding: 0 20px 20px 20px;
+		}
+	.navbar .container {
+		padding: 0;
+		}
+
+	#intro-wrap .container {
+		padding-bottom: 0;
+		}
+		
+	.home .wrap-flex .content {
+		float: left;
+		width: 60%;
+		vertical-align: top;
+		}	
+	.home .wrap-flex .right-wrap {
+		float: right;
+		width: 30%;
+		vertical-align: top;
+		}
+		
+	.home .blocks .block {
+		float: left;
+		width: 28%;
+		height: 330px;
+		margin-right: 3%;
+		}	
+	.home .blocks > .block button {
+		right: 0;
+		}	
+		
+	.select-grade #left-wrap {
+		float: left;
+		width: 250px;
+		padding-top: 60px;
+		}
+	.select-grade #content-wrap {
+		float: right;
+		width: 850px;
+		}
+		
+	.has-right .wrap-flex .content {
+		float: left;
+		width: 800px;
+		}	
+	.has-right .wrap-flex .right-wrap {
+		float: right;
+		width: 250px;
+		}
+		
+	.default h1,
+	.has-right h1,
+	.select-grade h1 {
+		margin-top: -10px;
+		}	
+	.home h1 {
+		margin-top: 1em;
+		}
+		
+	select, textarea, 
+	input[type='text'], 
+	input[type='password'] {
+		font-size: 100%;
+		}	
+		
+	.block .page {
+		vertical-align: top;
+		}
+		
+} // end ie9
+
+//
+// ie10 ftw!
+//
+
+.ie10 {
+
+	.select-grade #content-wrap,
+	.has-right .content,
+	.home .content,
+	.blocks > .block {
+		-ms-flex: 1;
+		flex: 1;
+		}
+
+	.home .right-wrap {
+		width: 400px;
+		}
+		
+	.has-right .right-wrap {	
+		-ms-flex-preferred-size: 280px; /* 30%-ish via sb site */
+		}	
+		
+	.select-grade #left-wrap {	
+		-ms-flex-preferred-size: 230px;
+		}			
+		
+	@media (max-width: 979px) {
+		.wrap-flex,
+		.select-grade #left-wrap,	
+		.has-right .right-wrap,
+		.home .content,
+		.home .right-wrap {
+			display: block;
+			margin-bottom: 20px;
+			width: auto;
+			}
+
+		.select-grade #content-wrap {
+			margin-left: 20px;
+			}	
+			
+		.select-grade #left-wrap {
+			margin: 20px;
+			}	
+			
+		.home .block {
+			margin-left: 20px;
+			margin-right: 20px;
+			}	
+	}			
+} // end ie10

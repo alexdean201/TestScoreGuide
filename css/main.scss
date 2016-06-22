@@ -1,0 +1,103 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+$padding-default: 10px;
+
+$border-radius: 4px;
+
+$font-serifs: 'PT Serif', serif;
+$font-sans-serifs: 'PT Sans', sans-serif;
+
+$font-size-default: 16px;
+$font-size-formfields: 13px;
+$font-size-anchor-rwd: 14px;
+$font-size-topbar: 13px;
+$font-size-footer: 12px;
+$font-size-footer-a: 15px;
+
+$font-lineheight-default: 1.7;
+$font-lineheight-heading: 1.4;
+$font-lineheight-breadcrumbs: 1.4;
+$font-lineheight-legend: 1.4;
+$font-lineheight-rwd: 1.5;
+$font-lineheight-h2: 1.2;
+$font-lineheight-h3: 1.3;
+$font-lineheight-table: 1.4;
+$font-lineheight-footer: 1.3;
+
+$font-size-h1: 250%;
+$font-size-h2: 240%;
+$font-size-h3: 205%;
+$font-size-h4: 160%;
+$font-size-h5: 145%;
+$font-size-h6: 100%;
+
+$color-body: #6c6c6c;
+$color-body-background: #f3f3f3;
+
+$color-bold: #63666a;
+
+$color-hr: #f2f2f2;
+
+$color-h1: #008ab1;
+$color-h1-underline: #d3dfe1;
+$color-h2: #000000;
+
+$color-underline: #d3dfe1;
+$color-form-placeholder: #c5c5c5;
+$color-form-disabled-background: #eee;
+
+$color-heading: #63666a;
+$color-footer: #7a7a7a;
+
+$color-anchor: #007393;
+$color-anchor-underline: #b2dbe7;
+
+$color-anchor-hover: #358c21;
+$color-anchor-hover-underline: #a1d794;
+
+$color-anchor-focus: #008ab1; 
+$color-anchor-focus-background: #e5f3f7;
+
+$color-topbar: #686868;
+$color-topbar-hover: #007393;
+
+
+$color-accordion-gray: #ccc;
+$color-claim-trigger: #272727;
+$color-claim-text: #000;
+$color-claim-background: #f0f0f0;
+
+// These colors all failed the accessiblity contrast check when applied to the font
+// font is not black, but these color are pulled in for the background color; dhj
+$color-claim-reading: #39a4b5;
+$color-claim-writing: #a3ce39;
+$color-claim-listening: #6815b2;
+$color-claim-research: #ff6102;
+
+$color-claim-concepts: #c8ba2b;
+$color-claim-solving: #c239a4;
+$color-claim-reasoning: #39b573;
+
+$sb-logo-background: #f2f2f2;
+$sb-logo-statecolor: #ffca02;
+
+$table-heading-color: #fff;
+$table-heading-background:  #007393;
+
+$byclaim-background-color: #ffffe8;
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "magnific-popup",
+		"base",
+        "layout",
+		"rwd",
+		"ie"
+		
+;

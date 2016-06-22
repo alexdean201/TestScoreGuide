@@ -1,0 +1,89 @@
+<div class="by-claim concepts">
+	<div class="claim">
+		<h3></h3>
+		<p></p>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+	<div class="standards" aria-live="polite">
+		<div class="triggers" aria-hidden="true">
+			<a href="" id="trigger-concepts-above">Above Standard</a>
+			<a href="" id="trigger-concepts-near">Near Standard</a>
+			<a href="" id="trigger-concepts-below">Below Standard</a>
+		</div>
+		<div id="concepts-above" class="std">
+			<p class="hide">Above Standard</p>
+			<p></p>
+		</div>
+		<div id="concepts-near" class="std">
+			<p class="hide">At or Near Standard</p>
+			<p></p>
+		</div>
+		<div id="concepts-below" class="std">
+			<p class="hide">Below Standard</p>
+			<p></p> 
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="by-claim solving">
+	<div class="claim">
+		<h3></h3>
+		<p></p>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+	<div class="standards" aria-live="polite">
+		<div class="triggers" aria-hidden="true">
+			<a href="" id="trigger-solving-above">Above Standard</a>
+			<a href="" id="trigger-solving-near">Near Standard</a>
+			<a href="" id="trigger-solving-below">Below Standard</a>
+		</div>
+		<div id="solving-above" class="std">
+			<p class="hide">Above Standard</p>
+			<p></p>
+		</div>
+		<div id="solving-near" class="std">
+			<p class="hide">At or Near Standard</p>
+			<p></p>
+		</div>
+		<div id="solving-below" class="std">
+			<p class="hide">Below Standard</p>
+			<p></p> 
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="by-claim reasoning">
+	<div class="claim">
+		<h3></h3>
+		<p></p>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+	<div class="standards" aria-live="polite">
+		<div class="triggers" aria-hidden="true">
+			<a href="" id="trigger-reasoning-above">Above Standard</a>
+			<a href="" id="trigger-reasoning-near">Near Standard</a>
+			<a href="" id="trigger-reasoning-below">Below Standard</a>
+		</div>
+		<div id="reasoning-above" class="std">
+			<p class="hide">Above Standard</p>
+			<p></p>
+		</div>
+		<div id="reasoning-near" class="std">
+			<p class="hide">At or Near Standard</p>
+			<p></p>
+		</div>
+		<div id="reasoning-below" class="std">
+			<p class="hide">Below Standard</p>
+			<p></p> 
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>

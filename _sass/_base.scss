@@ -1,0 +1,698 @@
+/* reset */
+/**
+ * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
+ *
+ */
+	html, body, div, span, applet, object, iframe,
+	h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+	a, abbr, acronym, address, big, cite, code,
+	del, dfn, em, img, ins, kbd, q, s, samp,
+	small, strike, strong, 
+	/* sub, sup, *//* dhj: keep the defaults */
+	tt, var,
+	b, u, i, center,
+	/* dl, *//* dhj: keep the defaults */
+	dt, dd,
+	/* ol, *//* dhj: keep the defaults */
+	/* ul, *//* dhj: keep the defaults */
+	li,
+	fieldset, form, label, legend,
+	table, caption, tbody, tfoot, thead, tr, th, td,
+	article, aside, canvas, details, embed,
+	figure, figcaption, footer, header, hgroup,
+	menu, nav, output, ruby, section, summary,
+	time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+		}
+	/* HTML5 display-role reset for older browsers */
+	article, aside, details, figcaption, figure,
+	footer, header, hgroup, menu, nav, section {
+		display: block;
+		}
+
+	/* dhj: keep the defaults
+	body {
+		line-height: 1;
+		}
+
+	ol, ul {
+		list-style: none;
+		}
+	*/
+
+	blockquote, q {
+		quotes: none;
+		}
+
+	blockquote:before, blockquote:after,
+	q:before, q:after {
+		content: '';
+		content: none;
+		}
+
+	table {
+		border-collapse: collapse;
+		border-spacing: 0;
+		}
+
+	input[type="text"],
+	input[type="button"],
+	input[type="submit"],
+	input[type="reset"] {
+		-moz-box-sizing: border-box;
+			 box-sizing: border-box;
+		}
+
+/* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
+/* .icon and svg */
+
+	span[class^="icon-"], span[class*=" icon-"] {
+		display: inline-block;
+		width: 1em;
+		height: 1em;
+		vertical-align: middle;
+		}
+
+	svg { pointer-events: none; }
+		
+/* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
+/* helpers */
+
+	.hide, .skip {
+		position: absolute;
+		overflow: hidden;
+		clip: rect(0 0 0 0);
+		width: 1px;
+		height: 1px;
+		margin: -1px;
+		padding: 0;
+		border: 0;
+		}
+
+	.nowrap,
+	.donotwrap {
+		white-space: nowrap;
+		}
+
+	.clear,
+	.clearboth {
+		clear: both;
+		}
+		
+	.wrap-flex {
+	
+		-js-display: flex;
+		/* flexbox setup */
+		display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+		display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+		display: -ms-flexbox;      /* TWEENER - IE 10 */
+		display: -webkit-flex;     /* NEW - Chrome */
+		display: flex;
+
+		-webkit-justify-content: space-between;
+		justify-content: space-between;
+
+		flex-wrap: wrap;
+
+		}
+
+	.relative {
+		position: relative;
+		}
+
+/* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
+/* html and body */
+
+	*,
+	*:before,
+	*:after {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box
+		}
+
+
+	html {
+		height: 100.1%;
+		font-size: 16px;
+		}
+
+	body {
+		margin: 0;
+		overflow-x: hidden;
+		color: $color-body;
+		background-color: $color-body-background;	
+		height: 100.1%;   // force the scroll bar to always appear
+		font-family: $font-serifs;
+		line-height: $font-lineheight-default;
+		}
+
+
+/* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
+/* headings */
+
+h1,
+h2, 
+h3,
+h4,
+h5,
+h6 {
+    margin: 1.25rem 0 0.2rem;
+	color: $color-heading;
+	font-family: $font-sans-serifs;
+    font-style: normal;
+    font-weight: 400;
+	letter-spacing: -0.05em;
+	line-height: $font-lineheight-heading;
+	text-rendering: optimizelegibility;
+	}
+
+h1 {
+	color: $color-h1;
+	font-size: $font-size-h1;
+	line-height: 1.05;
+	border-bottom: 1px solid $color-h1-underline;
+	padding-bottom: 0.25rem;
+	}	
+	
+h2, .h2 {
+	color: $color-h2;
+	font-size: $font-size-h2;
+	}	
+	
+h3 {
+	font-size: $font-size-h3;
+	line-height: $font-lineheight-h3;
+	}
+
+h4 {
+	font-size: $font-size-h4;
+    margin-bottom: 0.5em;
+	} 
+h5 {
+	font-size: $font-size-h5;
+    margin-bottom: 0.5em;
+	}
+h6 {
+	font-size: $font-size-h6;
+	text-transform: uppercase;
+    margin-bottom: 0.5em;
+	}		
+
+h1 ~ p,	
+p ~ h2 {
+	margin-top: 1.25rem;
+	}	
+
+h3 + h4 {
+	margin-top:.5em;
+	}
+	
+h4 + p {
+	margin-top:-.5em;
+	}	
+	
+	
+		
+/* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
+/* anchors */
+		
+	a {		
+		text-decoration: none;
+		background-color: transparent;
+		-webkit-transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+		       transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+
+		
+		&:visited {
+			}
+
+		&:active,
+		&:hover {
+			outline: 0 !important;
+			}
+			
+		&:focus {
+			color: black;
+			background-color: $color-anchor-focus-background;
+			outline: 2px dotted $color-anchor-focus;
+			outline-offset: 3px;
+			}
+
+			
+		}
+	
+	a.link-img {
+		border-bottom: 0;
+
+		&:hover,
+		&:focus {
+			border-bottom: 0;
+			}
+		
+		}	
+	
+	a.skiplink {
+		position: absolute;
+		left: -10000px;
+		top: auto;
+		width: 1px;
+		height: 1px;
+		overflow: hidden;
+		}
+
+	a.skiplink:focus {
+		position: static;
+		width: auto;
+		height: auto;
+		text-align: left;
+		font-weight: bold;
+		margin-right: 1em;
+		}	
+	
+	#main a {
+		color: $color-anchor;
+		border-bottom: 1px solid $color-anchor-underline;
+		}
+	#main a:hover {
+		color: $color-anchor-hover;
+		border-bottom: 1px solid $color-anchor-hover-underline;
+		}
+		
+		
+/* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
+/* buttons and forms */
+
+	form {
+		margin: 0 0 1.313em
+		}
+
+	fieldset {
+		padding: 0;
+		margin: 0;
+		border: 0
+		}
+
+	legend {
+		display: block;
+		border: 0;
+		width: 100%;
+		padding: 0;
+		margin: 0;
+		line-height: $font-lineheight-legend;
+		border-bottom: 1px solid $color-underline;
+		}
+
+
+	label,
+	input, 
+	button, 
+	select, 
+	textarea {
+		font-family: $font-serifs;
+		line-height: $font-lineheight-default;
+		margin: 0;
+		font-size: 100%;
+		vertical-align: middle;	
+		}
+
+	label {
+		display: block;
+		margin-bottom: 2px
+		}		
+			
+	select,
+	textarea,
+	input[type="text"],
+	input[type="password"] {
+		display: inline-block;
+		height: 2.65em;
+		margin-bottom: 9px;
+		border: 1px solid $color-underline;
+		padding: 0 0.65em;
+		font-size: $font-size-formfields;
+		line-height: normal;
+		color: $color-body;
+		background-color: #fff;
+		border-radius: $border-radius;
+		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075)
+		}
+		
+	input,
+	textarea {
+		width: auto
+		}
+
+	button,
+	input[type="button"],
+	input[type="reset"],
+	input[type="submit"] {
+		cursor: pointer;
+		-webkit-appearance: button
+		}
+		
+	textarea {
+		overflow: auto;
+		vertical-align: top;
+		padding: 0 6px;
+		}
+		
+	textarea,
+	input[type="text"],
+	input[type="password"] {
+		-webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
+				transition: border linear 0.2s, box-shadow linear 0.2s	
+		}
+
+	textarea:focus,
+	input[type="text"]:focus,
+	input[type="password"]:focus {	
+		border-color: rgba(0, 0, 0, 0.3);
+		outline: 0;
+		outline: thin dotted \9;
+		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(0, 0, 0, 0.2)
+		}	
+		
+	input[type="radio"],
+	input[type="checkbox"] {
+		margin: 0.425em 0;
+		margin-top: 1px \9;
+		line-height: normal;
+		cursor: pointer
+		}
+
+	@media (max-width: 480px) {
+		input[type="radio"],
+		input[type="checkbox"] {	
+			border: 1px solid #ccc
+		}
+	}	
+		
+	select {
+		width: auto;
+		height: 2.65em;
+		padding-top: 0.5em;
+		padding-bottom: 0.5em
+		}
+		
+	select:focus,
+	input[type="radio"]:focus,
+	input[type="checkbox"]:focus {
+		outline: thin dotted $color-underline;
+		outline: 5px auto $color-underline;
+		outline-offset: -1px
+		}
+			
+	input::-webkit-input-placeholder,
+	textarea::-webkit-input-placeholder {
+		color: $color-form-placeholder;
+		}
+
+	input::-moz-placeholder,
+	textarea::-moz-placeholder {
+		color: $color-form-placeholder;
+		}
+
+	input:-ms-input-placeholder,
+	textarea:-ms-input-placeholder {
+		color: $color-form-placeholder;
+		}
+
+	.radio,
+	.checkbox {
+		min-height: 18px;
+		padding-left: 18px
+		}		
+		
+	.radio input[type="radio"],
+	.checkbox input[type="checkbox"] {
+		position: relative;
+		float: left;
+		margin-left: -18px
+		}
+		
+	.radio.inline,
+	.checkbox.inline {
+		display: inline-block;
+		padding-top: 5px;
+		margin-bottom: 0;
+		vertical-align: middle
+		}
+			
+	.radio.inline+.radio.inline,
+	.checkbox.inline+.checkbox.inline {
+		margin-left: 10px
+		}
+
+	input[disabled],
+	select[disabled],
+	textarea[disabled],
+	input[readonly],
+	select[readonly],
+	textarea[readonly] {
+		cursor: not-allowed;
+		}
+
+	input[disabled]:not(input[type="submit"]),
+	select[disabled],
+	textarea[disabled],
+	input[readonly]:not(input[type="submit"]),
+	select[readonly],
+	textarea[readonly] {
+		background-color: $color-form-disabled-background;
+		}	
+			
+	input[type="radio"][disabled],
+	input[type="checkbox"][disabled],
+	input[type="radio"][readonly],
+	input[type="checkbox"][readonly] {
+		background-color: transparent
+		}	
+		
+	.btn-blue {
+		color: #fff;
+		background-color: #007393;
+		border: 1px solid #007393;
+		border-radius: $border-radius;
+		}	
+	.btn-blue:hover {
+		background-color: #004355;
+		border-color: #004355;
+		}	
+	
+	.home .right-wrap button[disabled]:hover,
+	[disabled].btn-blue:hover {
+		background-color: #007393;
+		border-color: #007393;
+		}
+		
+		
+	.btn-gray {
+		color: #fff;
+		background-color: #63666A;
+		border: 1px solid #63666A;
+		border-radius: $border-radius;
+		}	
+	.btn-gray:hover {
+		background-color: #313335;
+		border-color: #313335;
+		}	
+		
+	.btn-green {
+		color: #fff;
+		
+		// this green color is from SB but doesn't pass contrast standards; dhj
+		// background-color: #358c21;
+		// border: 1px solid #358c21;
+		//
+		// 2016-06-09; a dark green color that does pass; dhj
+		// background-color: #237211;
+		// border: 1px solid #237211;
+		//
+		// 2016-06-09; but now they want a blue instead; dhj   (╯°□°)╯︵ ┻━┻
+		//
+		background-color: #294baa;
+		border: 1px solid #294baa;
+		
+		border-radius: $border-radius;
+		}	
+	.btn-green:hover {
+		// this green color is from sb but doesn't pass contrast standards; dhj
+		// background-color: #286919;
+		// border-color: #286919;
+		//
+		// 2016-06-09; a dark green color that does pass; dhj
+		// background-color: #1f640f;
+		// border-color: #1f640f;
+		//
+		// 2016-06-09; but now they want a blue instead; dhj 
+		//
+		background-color: #1d367c;
+		border-color: #1d367c;
+		}	
+				
+	.home button[class^="btn-"] {
+		padding-top: 0.5em;
+		padding-bottom: 0.5em;		
+		}
+				
+	input[disabled],
+	button[disabled],
+	select[disabled],
+	textarea[disabled],
+	input[readonly],
+	select[readonly],
+	textarea[readonly] {
+		cursor: not-allowed;
+		}
+		
+/* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
+/* tables */
+
+	table {
+		width: 100%;
+		border-collapse: collapse;
+		border-spacing: 0;
+		margin: 0 0 1.25em 0;
+		padding: 0;
+		}
+
+	table caption {
+		position: absolute;
+		overflow: hidden;
+		clip: rect(0 0 0 0);
+		width: 1px;
+		height: 1px;
+		margin: -1px;
+		padding: 0;
+		border: 0;
+		}		
+
+	table + h2,
+	table + h3,
+	table + h4 {
+		margin-top: 1.25em;
+		}
+		
+	table th,
+	table td {
+		padding: 0.5em 0.625em;
+		text-align: left;
+		line-height: $font-lineheight-table;
+		vertical-align: middle;
+		}
+		
+	table th {
+		font-weight: bold
+		}
+
+	table thead th {
+		vertical-align: bottom
+		}		
+		
+		
+/* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
+/* page content (paragraphs, lists, etc) */
+	
+	img {
+		max-width: 100%;
+		height: auto;
+		vertical-align: middle;
+		border: 0;
+		-ms-interpolation-mode: bicubic		
+		}
+
+	hr {
+		height: 0;
+		margin: 1.313em 0;
+		border: 0;
+		border-top: 1px solid $color-hr;
+		}
+		
+
+	p {
+		margin: 0 0 1.313em;
+		}
+		
+	small {
+		font-size: 0.8rem;
+		}	
+
+	li, th, td, dt, dd {
+		}
+
+	li li {
+		font-size: inherit;
+		}
+
+	b,
+	strong,
+	.text-bold { 
+		font-weight: 700;
+		color: $color-bold;
+		}
+
+	em { font-style: italic; }
+	i { font-style: italic; }
+	.text-italic { font-style: italic; }
+	.is-pdf { font-style: italic; }
+	
+	ol.upper-roman { list-style-type: upper-roman; }
+	ol.decimal { list-style-type: decimal; }
+	ol.upper-alpha { list-style-type: upper-alpha; }
+	ol.lower-alpha { list-style-type: lower-alpha; }
+
+	ul { list-style-type: square; }
+	ul ul { list-style-type: circle; }
+	ul ul ul { list-style-type: disc; }
+
+	li {
+		margin-bottom: 0.5em;
+		}
+		
+	ul,
+	ol {
+		padding: 0;
+		margin: 0 0 1.313em 1.655em
+		}	
+
+	ul ul,
+	ul ol,
+	ol ol,
+	ol ul {
+		margin-bottom: 0
+		}
+
+	ul {
+		list-style: disc
+		}
+
+	ol {
+		list-style: decimal
+		}	
+	
+	ul.unstyled,
+	ol.unstyled {
+		margin-left: 0;
+		list-style: none
+		}
+
+	ul.inline,
+	ol.inline {
+		margin-left: 0;
+		list-style: none
+		}
+
+	ul.inline > li,
+	ol.inline > li {
+		display: inline-block;
+		padding-left: 1em;
+		padding-right: 1em
+		}	
+		
+	

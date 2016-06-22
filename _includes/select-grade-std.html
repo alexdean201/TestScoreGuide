@@ -1,0 +1,52 @@
+{% assign current = page.url | downcase | split: '/' %}
+{% assign currentpage = current[2] | remove_first: 'grade' | remove_first: '.html' %}
+
+<script src="{{ site.baseurl }}/script/scores.js"></script>
+<div>
+<input type="hidden" name="baseUrl" value="{{ site.baseurl }}" />
+<input type="hidden" name="currentpage" value="{{ currentpage }}" id="currentpageinfo" />
+</div>
+
+<div id="select-grade-stds">
+	<div class="wrap-select">
+		<label for="grade" aria-hidden="true" class="hide">Select a grade</label>
+		<select name="grade" id="grade">
+			<option value="-1" aria-hidden="true">Select grade</option>
+			<option value="3">Grade 3</option>
+			<option value="4">Grade 4</option>
+			<option value="5">Grade 5</option>
+			<option value="6">Grade 6</option>
+			<option value="7">Grade 7</option>
+			<option value="8">Grade 8</option>
+			<option value="11">Grade 11</option>
+		</select>
+	</div>
+
+	<div class="wrap-select">
+		<label for="subject" aria-hidden="true" class="hide">Select a subject </label>
+		<select name="subject" id="subject">
+			<option value="-1" aria-hidden="true">Select subject </option>
+			<option value="-1" aria-hidden="true">First select a grade</option>
+		</select>
+	</div>
+
+	<div class="wrap-select">
+		<label for="range" aria-hidden="true" class="hide">Select the score range</label>
+		<select name="range" id="range">
+			<option value="-1" aria-hidden="true">Select score range</option>
+			<option value="-1" aria-hidden="true">First select a subject</option>
+		</select>
+	</div>
+
+	<div class="wrap-select">
+		<button type="submit" id="get-scores" class="btn-blue">
+			{% assign current = page.url | downcase | split: '/' %}
+			{% if current[1] == baseurl %}
+				Go!
+			{% else %}	
+				Go!
+			{% endif %}
+		</button>
+	</div>
+</div><!-- /select-grade-stds -->
+<div class="clear"></div>

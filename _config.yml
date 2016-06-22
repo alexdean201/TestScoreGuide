@@ -1,0 +1,37 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Test Score Guide&#58; CA # &#58; is ":" (cannot have colon in title)
+
+sitename: "California Assessment of <span class=\"nowrap\">Student Performance and Progress</span> Test Score Guide"
+statename: "State of California"
+
+
+email: someone@somewhere.org
+description: > # this means to ignore newlines until "baseurl:"
+  something wonderful about the /ca site
+  and then even more stuff about how groovy it 
+  will be when completed.
+
+# baseurl: ""                      # local devlopment path
+# baseurl: "/ca-tsg-new/_site"     # dev path
+# baseurl: "/ca"                   # production path
+#
+# do NOT forget to uncomment the google analytics
+# before publishing this site to the production enviroment
+#
+baseurl: "/ca-tsg-new/_site"     # dev path
+url: "http://testscoreguide.org" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+   input: GFM
+ 

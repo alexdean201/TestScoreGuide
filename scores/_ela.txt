@@ -1,0 +1,118 @@
+<div class="by-claim reading">
+	<div class="claim">
+		<h3>Reading</h3>
+		<p></p>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+	<div class="standards" aria-live="polite">
+		<div class="triggers" aria-hidden="true">
+			<a href="" id="trigger-reading-above">Above Standard</a>
+			<a href="" id="trigger-reading-near">Near Standard</a>
+			<a href="" id="trigger-reading-below">Below Standard</a>
+		</div>
+		<div id="reading-above" class="std">
+			<p class="hide">Above Standard</p>
+			<p></p>
+		</div>
+		<div id="reading-near" class="std">
+			<p class="hide">At or Near Standard</p>
+			<p></p>
+		</div>
+		<div id="reading-below" class="std">
+			<p class="hide">Below Standard</p>
+			<p></p> 
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+
+<div class="by-claim writing">
+	<div class="claim">
+		<h3>Writing</h3>
+		<p></p>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+	<div class="standards" aria-live="polite">
+		<div class="triggers" aria-hidden="true">
+			<a href="" id="trigger-writing-above">Above Standard</a>
+			<a href="" id="trigger-writing-near">Near Standard</a>
+			<a href="" id="trigger-writing-below">Below Standard</a>
+		</div>
+		<div id="writing-above" class="std">
+			<p class="hide">Above Standard</p>
+			<p></p>
+		</div>
+		<div id="writing-near" class="std">
+			<p class="hide">At or Near Standard</p>
+			<p></p>
+		</div>
+		<div id="writing-below" class="std">
+			<p class="hide">Below Standard</p>
+			<p></p> 
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+
+<div class="by-claim listening" aria-live="polite">
+	<div class="claim">
+		<h3>Listening</h3>
+		<p></p>
+	</div>
+	<div class="standards">
+		<div class="triggers" aria-hidden="true">
+			<a href="" id="trigger-listening-above">Above Standard</a>
+			<a href="" id="trigger-listening-near">Near Standard</a>
+			<a href="" id="trigger-listening-below">Below Standard</a>
+		</div>
+		<div id="listening-above" class="std">
+			<p class="hide">Above Standard</p>
+			<p></p>
+		</div>
+		<div id="listening-near" class="std">
+			<p class="hide">At or Near Standard</p>
+			<p></p>
+		</div>
+		<div id="listening-below" class="std">
+			<p class="hide">Below Standard</p>
+			<p></p> 
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="by-claim research">
+	<div class="claim">
+		<h3>Research</h3>
+		<p></p>
+		<ul>
+			<li></li>
+		</ul>
+	</div>
+	<div class="standards" aria-live="polite">
+		<div class="triggers" aria-hidden="true">
+			<a href="" id="trigger-research-above">Above Standard</a>
+			<a href="" id="trigger-research-near">Near Standard</a>
+			<a href="" id="trigger-research-below">Below Standard</a>
+		</div>
+		<div id="research-above" class="std">
+			<p class="hide">Above Standard</p>
+			<p></p>
+		</div>
+		<div id="research-near" class="std">
+			<p class="hide">At or Near Standard</p>
+			<p></p>
+		</div>
+		<div id="research-below" class="std">
+			<p class="hide">Below Standard</p>
+			<p></p> 
+		</div>
+	</div>
+	<div class="clear"></div>
+</div>
