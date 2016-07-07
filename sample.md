@@ -21,7 +21,7 @@ sections:
 
 ---
 
-This was the first nation in the history of the world to be founded with a purpose. 
+This was the first nation in the history of the world to be founded with a purpose.
 The [great phrases](http://www.google.com) of that purpose still sound in every American heart, North and South: 
 **"All men are created equal,"**
 _"government by consent of the governed,"_ 
