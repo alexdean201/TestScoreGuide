@@ -476,64 +476,43 @@ h4 + p {
 		
 	.btn-blue {
 		color: #fff;
-		background-color: #007393;
-		border: 1px solid #007393;
+		background-color: $color-button1;
+		border: 1px solid $color-button1;
 		border-radius: $border-radius;
 		}	
 	.btn-blue:hover {
-		background-color: #004355;
-		border-color: #004355;
+		background-color: $color-button1-hover;
+		border-color: $color-button1-hover;
 		}	
 	
 	.home .right-wrap button[disabled]:hover,
 	[disabled].btn-blue:hover {
-		background-color: #007393;
-		border-color: #007393;
+		background-color: $color-button1-hover;
+		border-color: $color-button1-hover;
 		}
 		
 		
 	.btn-gray {
 		color: #fff;
-		background-color: #63666A;
-		border: 1px solid #63666A;
+		background-color: $color-button2;
+		border: 1px solid $color-button2;
 		border-radius: $border-radius;
 		}	
 	.btn-gray:hover {
-		background-color: #313335;
-		border-color: #313335;
+		background-color: $color-button2-hover;
+		border-color: $color-button2-hover;
 		}	
 		
 	.btn-green {
 		color: #fff;
-		
-		// this green color is from SB but doesn't pass contrast standards; dhj
-		// background-color: #358c21;
-		// border: 1px solid #358c21;
-		//
-		// 2016-06-09; a dark green color that does pass; dhj
-		// background-color: #237211;
-		// border: 1px solid #237211;
-		//
-		// 2016-06-09; but now they want a blue instead; dhj   (╯°□°)╯︵ ┻━┻
-		//
-		background-color: #294baa;
-		border: 1px solid #294baa;
+		background-color: $color-button3;
+		border: 1px solid $color-button3;
 		
 		border-radius: $border-radius;
 		}	
 	.btn-green:hover {
-		// this green color is from sb but doesn't pass contrast standards; dhj
-		// background-color: #286919;
-		// border-color: #286919;
-		//
-		// 2016-06-09; a dark green color that does pass; dhj
-		// background-color: #1f640f;
-		// border-color: #1f640f;
-		//
-		// 2016-06-09; but now they want a blue instead; dhj 
-		//
-		background-color: #1d367c;
-		border-color: #1d367c;
+		background-color: $color-button3-hover;
+		border-color: $color-button3-hover;
 		}	
 				
 	.home button[class^="btn-"] {

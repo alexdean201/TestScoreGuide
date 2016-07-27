@@ -42,7 +42,7 @@ $color-bold: #63666a;
 
 $color-hr: #f2f2f2;
 
-$color-h1: #008ab1;
+$color-h1: #3a6983;
 $color-h1-underline: #d3dfe1;
 $color-h2: #000000;
 
@@ -53,23 +53,34 @@ $color-form-disabled-background: #eee;
 $color-heading: #63666a;
 $color-footer: #7a7a7a;
 
-$color-anchor: #007393;
+$color-anchor: #3a6983;
 $color-anchor-underline: #b2dbe7;
 
-$color-anchor-hover: #358c21;
-$color-anchor-hover-underline: #a1d794;
+$color-anchor-hover: #71791f;
+$color-anchor-hover-underline: #b7c333;
 
-$color-anchor-focus: #008ab1; 
-$color-anchor-focus-background: #e5f3f7;
+$color-anchor-focus: #3a6983; 
+$color-anchor-focus-background: #fdffed;
 
 $color-topbar: #686868;
-$color-topbar-hover: #007393;
-
+$color-topbar-hover: #b7c333;
+$color-nav-accent: #b7c333;
 
 $color-accordion-gray: #ccc;
 $color-claim-trigger: #272727;
 $color-claim-text: #000;
 $color-claim-background: #f0f0f0;
+
+// Button color customization
+
+$color-button1: #3a6983;
+$color-button1-hover: #30586d;
+
+$color-button2: #71791f;
+$color-button2-hover: #5a6019;
+
+$color-button3: #be3917;
+$color-button3-hover:#a23014;
 
 // These colors all failed the accessiblity contrast check when applied to the font
 // font is not black, but these color are pulled in for the background color; dhj
@@ -86,7 +97,7 @@ $sb-logo-background: #f2f2f2;
 $sb-logo-statecolor: #ffca02;
 
 $table-heading-color: #fff;
-$table-heading-background:  #007393;
+$table-heading-background:  #3a6983;
 
 $byclaim-background-color: #ffffe8;
 
