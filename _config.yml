@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Test Score Guide&#58; CA # &#58; is ":" (cannot have colon in title)
+title: Test Score Guide&#58; WA # &#58; is ":" (cannot have colon in title)
 
-sitename: "California Assessment of <span class=\"nowrap\">Student Performance and Progress</span> Test Score Guide"
-statename: "State of California"
+sitename: "Washington Comprehensive Assessment Program Test Score Guide"
+statename: "State of Washington"
 
 
 email: someone@somewhere.org
 description: > # this means to ignore newlines until "baseurl:"
   something wonderful about the /ca site
-  and then even more stuff about how groovy it 
+  and then even more stuff about how groovy it
   will be when completed.
 
 # baseurl: ""                      # local devlopment path
@@ -34,4 +34,3 @@ markdown: kramdown
 
 kramdown:
    input: GFM
- 

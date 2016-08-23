@@ -1,13 +1,13 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 6 ELA 
+title: Understanding Student Scores for Grade 6 ELA
 keywords: overall score, achievement levels, content standards, area performance level, EAP
-description: 
+description:
 ---
 
 <div class="herring" markdown="1">
 
-Understanding Scores
+<span class="breadcrumb">Understanding Scores</span>
 
 # Grade Six English Language Arts/Literacy
 
@@ -17,11 +17,11 @@ In grade six, students read a range of challenging books, articles, and texts an
 
 ## Overall Achievement
 
-The student took a Smarter Balanced assessment based on the grade six [California academic standards](http://www.cde.ca.gov/be/st/ss/index.asp) for English language arts/literacy and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
+The student took a Smarter Balanced assessment based on the grade six [Washington learning standards](http://www.k12.wa.us/CurriculumInstruct/default.aspx) for English language arts/literacy and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
 
 <div class="accordion" markdown="1">
 
-### Standard Exceeded (Level 4): 2618–2724 {#desc-exceeded}
+### Level 4: 2618–2911 {#desc-exceeded}
 
 The student has made progress and exceeded the grade six standard for English language arts/literacy. The student appears ready for future coursework.
 
@@ -30,7 +30,7 @@ The student has made progress and exceeded the grade six standard for English la
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Met (Level 3): 2531–2617 {#desc-met}
+### Level 3: 2531–2617 {#desc-met}
 
 The student has made progress and met the grade six standard for English language arts/literacy. The student appears ready for future coursework.
 
@@ -39,7 +39,7 @@ The student has made progress and met the grade six standard for English languag
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Nearly Met (Level 2): 2457–2530 {#desc-nearly-met}
+### Level 2: 2457–2530 {#desc-nearly-met}
 
 The student nearly met the grade six standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
@@ -48,7 +48,7 @@ The student nearly met the grade six standard for English language arts/literacy
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Not Met (Level 1): 2210–2456 {#desc-not-met}
+### Level 1: 2079–2456 {#desc-not-met}
 
 The student did not meet the grade six standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
@@ -57,12 +57,12 @@ The student did not meet the grade six standard for English language arts/litera
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry. 
-These four claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade six.
+The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry.
+These four claims are based on [Washington's learning standards](http://www.k12.wa.us/CurriculumInstruct/default.aspx), which describe the knowledge and skills students are expected to learn in grade six.
 
 If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
 
-To view a description of the student’s achievement level claim (i.e., area), select either **Above Standard**, **Near Standard**, or **Below Standard** from the student-level selections available in the table below.
+To view a description of the student’s achievement level claim (i.e., area), select either **Above Standard**, **At/Near Standard**, or **Below Standard** from the student-level selections available in the table below.
 
 
 <div class="by-claim reading">
@@ -82,7 +82,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-reading-above">Above Standard</a>
-			<a href="" id="trigger-reading-near">Near Standard</a>
+			<a href="" id="trigger-reading-near">At/Near Standard</a>
 			<a href="" id="trigger-reading-below">Below Standard</a>
 		</div>
 		<div id="reading-above" class="std">
@@ -90,12 +90,12 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<p>The student demonstrates a thorough ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of high complexity. </p>
 		</div>
 		<div id="reading-near" class="std">
-			<p class="hide">At or Near Standard</p>
+			<p class="hide">At/Near Standard</p>
 			<p>The student demonstrates some ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of moderate complexity. </p>
 		</div>
 		<div id="reading-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of moderate complexity. </p> 
+			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of moderate complexity. </p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -117,20 +117,20 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-writing-above">Above Standard</a>
-			<a href="" id="trigger-writing-near">Near Standard</a>
+			<a href="" id="trigger-writing-near">At/Near Standard</a>
 			<a href="" id="trigger-writing-below">Below Standard</a>
 		</div>
 		<div id="writing-above" class="std">
 			<p class="hide">Above Standard</p>
-			<p>The student demonstrates a thorough ability to produce well-organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p>
+			<p>The student demonstrates a thorough ability to produce well-organized, developed, and supported writing (e.g., narrative, informational/explanatory, and argumentative) for different purposes and audiences.</p>
 		</div>
 		<div id="writing-near" class="std">
-			<p class="hide">At or Near Standard</p>
-			<p>The student demonstrates some ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p>
+			<p class="hide">At/Near Standard</p>
+			<p>The student demonstrates some ability to produce organized, developed, and supported writing (e.g., narrative, informational/explanatory, and argumentative) for different purposes and audiences.</p>
 		</div>
 		<div id="writing-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p> 
+			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational/explanatory, and argumentative) for different purposes and audiences.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -145,7 +145,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-listening-above">Above Standard</a>
-			<a href="" id="trigger-listening-near">Near Standard</a>
+			<a href="" id="trigger-listening-near">At/Near Standard</a>
 			<a href="" id="trigger-listening-below">Below Standard</a>
 		</div>
 		<div id="listening-above" class="std">
@@ -153,12 +153,12 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<p>The student demonstrates a thorough ability to use effective listening skills for a range of purposes and audiences. </p>
 		</div>
 		<div id="listening-near" class="std">
-			<p class="hide">At or Near Standard</p>
+			<p class="hide">At/Near Standard</p>
 			<p>The student demonstrates some ability to use effective listening skills for a range of purposes and audiences.</p>
 		</div>
 		<div id="listening-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to use effective listening skills.</p> 
+			<p>The student does not yet demonstrate the ability to use effective listening skills.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -177,7 +177,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-research-above">Above Standard</a>
-			<a href="" id="trigger-research-near">Near Standard</a>
+			<a href="" id="trigger-research-near">At/Near Standard</a>
 			<a href="" id="trigger-research-below">Below Standard</a>
 		</div>
 		<div id="research-above" class="std">
@@ -185,12 +185,12 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<p>The student demonstrates a thorough ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 		<div id="research-near" class="std">
-			<p class="hide">At or Near Standard</p>
+			<p class="hide">At/Near Standard</p>
 			<p>The student demonstrates some ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 		<div id="research-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p> 
+			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 	</div>
 	<div class="clear"></div>

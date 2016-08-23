@@ -4,88 +4,88 @@
 
 	var gradeRanges = {
 		"ela3" : [
-			{ "range": "not-met",    "text": "2114-2366" },
+			{ "range": "not-met",    "text": "2001-2366" },
 			{ "range": "nearly-met", "text": "2367-2431" },
 			{ "range": "met",        "text": "2432-2489" },
-			{ "range": "exceeded",   "text": "2490-2623" }
+			{ "range": "exceeded",   "text": "2490-2811" }
 		],
 		"math3" : [
-			{ "range": "not-met",    "text": "2189-2380" },
+			{ "range": "not-met",    "text": "2071-2380" },
 			{ "range": "nearly-met", "text": "2381-2435" },
 			{ "range": "met",        "text": "2436-2500" },
 			{ "range": "exceeded",   "text": "2501-2621" }
 		],
 		"ela4" : [
-			{ "range": "not-met",    "text": "2131-2415" },
+			{ "range": "not-met",    "text": "2032-2415" },
 			{ "range": "nearly-met", "text": "2416-2472" },
 			{ "range": "met",        "text": "2473-2532" },
-			{ "range": "exceeded",   "text": "2533-2663" }
+			{ "range": "exceeded",   "text": "2533-2867" }
 		],
 		"math4" : [
-			{ "range": "not-met",    "text": "2204-2410" },
+			{ "range": "not-met",    "text": "2090-2410" },
 			{ "range": "nearly-met", "text": "2411-2484" },
 			{ "range": "met",        "text": "2485-2548" },
-			{ "range": "exceeded",   "text": "2549-2659" }
+			{ "range": "exceeded",   "text": "2549-2834" }
 		],
 		"ela5" : [
-			{ "range": "not-met",    "text": "2201-2441" },
+			{ "range": "not-met",    "text": "2056-2441" },
 			{ "range": "nearly-met", "text": "2442-2501" },
 			{ "range": "met",        "text": "2502-2581" },
-			{ "range": "exceeded",   "text": "2582-2701" }
+			{ "range": "exceeded",   "text": "2582-2916" }
 		],
 		"math5" : [
-			{ "range": "not-met",    "text": "2219-2454" },
+			{ "range": "not-met",    "text": "2095-2454" },
 			{ "range": "nearly-met", "text": "2455-2527" },
 			{ "range": "met",        "text": "2528-2578" },
-			{ "range": "exceeded",   "text": "2579-2700" }
+			{ "range": "exceeded",   "text": "2579-2891" }
 		],
 		"ela6" : [
-			{ "range": "not-met",    "text": "2210-2456" },
+			{ "range": "not-met",    "text": "2079-2456" },
 			{ "range": "nearly-met", "text": "2457-2530" },
 			{ "range": "met",        "text": "2531-2617" },
-			{ "range": "exceeded",   "text": "2618-2724" }
+			{ "range": "exceeded",   "text": "2618-2911" }
 		],
 		"math6" : [
-			{ "range": "not-met",    "text": "2235-2472" },
+			{ "range": "not-met",    "text": "2079-2472" },
 			{ "range": "nearly-met", "text": "2473-2551" },
 			{ "range": "met",        "text": "2552-2609" },
-			{ "range": "exceeded",   "text": "2610-2748" }
+			{ "range": "exceeded",   "text": "2610-2937" }
 		],
 		"ela7" : [
-			{ "range": "not-met",    "text": "2258-2478" },
+			{ "range": "not-met",    "text": "2082-2478" },
 			{ "range": "nearly-met", "text": "2479-2551" },
 			{ "range": "met",        "text": "2552-2648" },
-			{ "range": "exceeded",   "text": "2649-2745" }
+			{ "range": "exceeded",   "text": "2649-2964" }
 		],
 		"math7" : [
-			{ "range": "not-met",    "text": "2250-2483" },
+			{ "range": "not-met",    "text": "2108-2483" },
 			{ "range": "nearly-met", "text": "2484-2566" },
 			{ "range": "met",        "text": "2567-2634" },
-			{ "range": "exceeded",   "text": "2635-2778" }
+			{ "range": "exceeded",   "text": "2635-2964" }
 		],
 		"ela8" : [
-			{ "range": "not-met",    "text": "2288-2486" },
+			{ "range": "not-met",    "text": "2097-2486" },
 			{ "range": "nearly-met", "text": "2487-2566" },
 			{ "range": "met",        "text": "2567-2667" },
-			{ "range": "exceeded",   "text": "2668-2769" }
+			{ "range": "exceeded",   "text": "2668-2989" }
 		],
 		"math8" : [
-			{ "range": "not-met",    "text": "2265-2503" },
+			{ "range": "not-met",    "text": "2113-2503" },
 			{ "range": "nearly-met", "text": "2504-2585" },
 			{ "range": "met",        "text": "2586-2652" },
-			{ "range": "exceeded",   "text": "2653-2802" }
+			{ "range": "exceeded",   "text": "2653-2993" }
 		],
 		"ela11" : [
-			{ "range": "not-met",    "text": "2299-2492" },
+			{ "range": "not-met",    "text": "2102-2492" },
 			{ "range": "nearly-met", "text": "2493-2582" },
 			{ "range": "met",        "text": "2583-2681" },
-			{ "range": "exceeded",   "text": "2682-2795" }
+			{ "range": "exceeded",   "text": "2682-3032" }
 		],
 		"math11" : [
-			{ "range": "not-met",    "text": "2280-2542" },
+			{ "range": "not-met",    "text": "2118-2542" },
 			{ "range": "nearly-met", "text": "2543-2627" },
 			{ "range": "met",        "text": "2628-2717" },
-			{ "range": "exceeded",   "text": "2718-2862" }
+			{ "range": "exceeded",   "text": "2718-3085" }
 		]
 	};
 	

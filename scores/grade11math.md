@@ -1,44 +1,45 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 11 Math 
+title: Understanding Student Scores for High School Math
 keywords: overall score, achievement levels, content standards, area performance level, EAP
-description: 
+description:
 ---
 
 <div class="herring" markdown="1">
 
-Understanding Scores
+<span class="breadcrumb">Understanding Scores</span>
 
-# Grade Eleven Mathematics
+# High School Mathematics
 
-## What are the knowledge and skills the student is expected to learn in grade eleven mathematics?
+## What are the knowledge and skills the student is expected to learn in high school mathematics?
 
-In grade eleven, students develop a deep understanding of mathematical concepts and use mathematical ways of thinking to solve real-world problems. Unlike previous grades where learning objectives are organized by grade level, high school learning objectives are organized by conceptual categories—such as algebra, functions, or geometry—that students will learn in various mathematics courses. These categories build on what students learned in grade eight and move toward greater depth of knowledge and skills throughout high school. 
+In high school, students develop a deep understanding of mathematical concepts and use mathematical ways of thinking to solve real-world problems. Unlike previous grades where learning objectives are organized by grade level, high school learning objectives are organized by conceptual categories—such as algebra, functions, or geometry—that students will learn in various mathematics courses. These categories build on what students learned in grade eight and move toward greater depth of knowledge and skills throughout high school.
 
 ## Overall Achievement
 
-The student took a Smarter Balanced assessment based on the grade eleven [California academic standards](http://www.cde.ca.gov/be/st/ss/index.asp) for mathematics and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
+The student took a Smarter Balanced assessment based on the high school [Washington learning standards](http://www.k12.wa.us/CurriculumInstruct/default.aspx)
+ for mathematics and received an overall score that ranges from about 2000 to about 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
 
 <div class="accordion" markdown="1">
 
-### Standard Exceeded (Level 4): 2718–2862 {#desc-exceeded}
+### Level 4: 2718–3085 {#desc-exceeded}
 
-The student exceeded the grade eleven standard for mathematics and is ready for future coursework.
+The student exceeded the high school standard for mathematics and is ready for future coursework.
 
-Early Assessment Program (EAP) Status: Ready for mathematics college-level coursework
+Higher Ed Placement Agreement (HEPA) Status: Ready for college-level mathematics coursework
 
-Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is considered ready for mathematics college-level work. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is considered ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help avoid the need for placement testing upon enrolling in higher ed.
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Met (Level 3): 2628–2717 {#desc-met}
+### Level 3: 2628–2717 {#desc-met}
 
-The student met the grade eleven standard for mathematics and appears ready for future coursework.
+The student met the high school standard for mathematics and appears ready for future coursework.
 
-Early Assessment Program (EAP) Status: Conditionally ready for mathematics college-level coursework
+Higher Ed Placement Agreement (HEPA) Status: Ready for college-level mathematics coursework
 
-Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is considered conditionally ready for mathematics college-level work. Students earning a status of conditionally ready can be exempt from the CSU’s placement test and the Early Start Program by taking an approved senior year course and earning a grade of C or better. If the student earned a conditionally ready status, we encourage you to reach out to the administrators and teachers at the student’s school about enrolling the student in an approved senior year mathematics course. In addition, review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is considered ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help avoid the need for placement testing upon enrolling in higher ed.
 
 - [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_1.pdf)
 - [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_2.pdf)
@@ -46,13 +47,15 @@ Under the EAP—which is a collaboration of the California State University (CSU
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Nearly Met (Level 2): 2543–2627  {#desc-nearly-met}
+### Level 2: 2543–2627  {#desc-nearly-met}
 
-The student nearly met the grade eleven standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
+The student nearly met the high school standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-Early Assessment Program (EAP) Status: Not yet demonstrating readiness for mathematics college-level coursework
+Higher Ed Placement Agreement (HEPA) Status: Not yet demonstrating readiness for college-level mathematics coursework
 
-Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
+Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is not yet considered ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) about how a Bridge to College course can help.
+
+Assessment Graduation Requirement Cut Score: In August 2015, the Washington State Board of Education set a minimum score of 2595 (which is within Level 2) for graduation. It remains a goal of the Board that all students will earn at least a Level 3 on the high school Smarter Balanced exams. As students and the system adjust to new standards and new assessments, the Board will revisit the minimum score that students need to graduate.
 
 - [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G11_Problem_Solving_and_Modeling_Standard_Nearly_Met.pdf)
 - [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_1.pdf)
@@ -61,23 +64,19 @@ Under the EAP—which is a collaboration of the California State University (CSU
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Not Met (Level 1): 2280–2542 {#desc-not-met}
+### Level 1: 2118–2542 {#desc-not-met}
 
-The student did not meet the grade eleven standard for mathematics and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
-
-Early Assessment Program (EAP) Status: Not demonstrating readiness for mathematics college-level coursework
-
-Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
+The student did not meet the high school standard for mathematics and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
 </div>
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These three claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade eleven. 
+The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These three claims are based on [Washington's learning standards](http://www.k12.wa.us/CurriculumInstruct/default.aspx), which describe the knowledge and skills students are expected to learn in high school.
 
 If the student received a score of “No Score Available” for any claims/, this means he or she did not complete enough items to receive a score in that area.
 
-To view a description of the student’s achievement level claim (i.e., area), select either **Above Standard**, **Near Standard**, or **Below Standard** from the student-level selections available in the table below.
+To view a description of the student’s achievement level claim (i.e., area), select either **Above Standard**, **At/Near Standard**, or **Below Standard** from the student-level selections available in the table below.
 
 <div class="by-claim concepts">
 	<div class="claim">
@@ -87,7 +86,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-concepts-above">Above Standard</a>
-			<a href="" id="trigger-concepts-near">Near Standard</a>
+			<a href="" id="trigger-concepts-near">At/Near Standard</a>
 			<a href="" id="trigger-concepts-below">Below Standard</a>
 		</div>
 		<div id="concepts-above" class="std">
@@ -95,12 +94,12 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<p>The student demonstrates a thorough ability to consistently explain and apply mathematical concepts, and the ability to interpret and carry out mathematical procedures with ease and accuracy.</p>
 		</div>
 		<div id="concepts-near" class="std">
-			<p class="hide">At or Near Standard</p>
+			<p class="hide">At/Near Standard</p>
 			<p>The student demonstrates some ability to explain and apply mathematical concepts, and the ability to interpret and carry out mathematical procedures with ease and accuracy.</p>
 		</div>
 		<div id="concepts-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to explain and apply mathematical concepts, or the ability to interpret and carry out mathematical procedures with ease and accuracy.</p> 
+			<p>The student does not yet demonstrate the ability to explain and apply mathematical concepts, or the ability to interpret and carry out mathematical procedures with ease and accuracy.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -114,7 +113,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-solving-above">Above Standard</a>
-			<a href="" id="trigger-solving-near">Near Standard</a>
+			<a href="" id="trigger-solving-near">At/Near Standard</a>
 			<a href="" id="trigger-solving-below">Below Standard</a>
 		</div>
 		<div id="solving-above" class="std">
@@ -122,12 +121,12 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<p>The student demonstrates a thorough ability to consistently solve a variety of well-posed mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student also demonstrates a strong ability to analyze real-world problems, and can build and use mathematical models to interpret and solve problems.</p>
 		</div>
 		<div id="solving-near" class="std">
-			<p class="hide">At or Near Standard</p>
+			<p class="hide">At/Near Standard</p>
 			<p>The student demonstrates some ability to solve well-posed mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student also demonstrates some ability to analyze real-world problems, and can build and use mathematical models to interpret and solve problems.</p>
 		</div>
 		<div id="solving-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to solve a variety of mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student does not yet demonstrate the ability to analyze real-world problems, or build and use mathematical models to interpret and solve problems.</p> 
+			<p>The student does not yet demonstrate the ability to solve a variety of mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student does not yet demonstrate the ability to analyze real-world problems, or build and use mathematical models to interpret and solve problems.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -141,7 +140,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
 			<a href="" id="trigger-reasoning-above">Above Standard</a>
-			<a href="" id="trigger-reasoning-near">Near Standard</a>
+			<a href="" id="trigger-reasoning-near">At/Near Standard</a>
 			<a href="" id="trigger-reasoning-below">Below Standard</a>
 		</div>
 		<div id="reasoning-above" class="std">
@@ -149,12 +148,12 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<p>The student demonstrates a thorough ability to clearly and precisely put together valid arguments to support his or her own mathematical thinking and to critique the reasoning of others.</p>
 		</div>
 		<div id="reasoning-near" class="std">
-			<p class="hide">At or Near Standard</p>
+			<p class="hide">At/Near Standard</p>
 			<p>The student demonstrates some ability to clearly and precisely put together valid arguments to support his or her own mathematical thinking and to critique the reasoning of others.</p>
 		</div>
 		<div id="reasoning-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to put together valid arguments to support his or her own mathematical thinking or to critique the reasoning of others.</p> 
+			<p>The student does not yet demonstrate the ability to put together valid arguments to support his or her own mathematical thinking or to critique the reasoning of others.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
