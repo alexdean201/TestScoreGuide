@@ -7,7 +7,7 @@ description: This Web page provides an overview of the Smart Balanced Student Sc
 
 # Understanding the Washington Comprehensive Assessment Program (WCAP) Student Score Reports
 
-The Student Score Report includes results from the Smarter Balanced English Language Arts/Literacy and Mathematics tests, which reflect Washington’s rigorous learning standards. These tests include a wide range of questions and include tasks that ask students to explain how they solved problems. These tests also allow students to demonstrate analytical writing and critical thinking as well as their knowledge of facts. To learn more about these tests, visit the [Office of Superintendent of Public Instruction WCAP Summative Assessments web page](http://www.k12.wa.us/assessment/default.aspx).
+The Student Score Report includes results from the Smarter Balanced English Language Arts/Literacy and Mathematics tests, which reflect Washington’s rigorous learning standards. These tests include a wide range of questions and include tasks that ask students to explain how they solved problems. These tests also allow students to demonstrate analytical writing and critical thinking as well as their knowledge of facts. To learn more about these tests, visit the Office of Superintendent of Public Instruction [Smarter Balanced Overview web page](http://www.k12.wa.us/smarter/default.aspx).
 
 
 ## Student Score Report Sample

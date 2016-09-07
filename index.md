@@ -28,7 +28,7 @@ description: This Web page serves as a gateway to information and resources pare
 
 ## What Is WCAP?
 
-Washington’s Comprehensive Assessment Program (WCAP) is a collection of assessments administered statewide. Smarter Balanced tests are the WCAP tests featured in this Score Guide. These computer-based tests, which students in grades three through eight high school take each spring, were created to gauge each student’s performance as he or she develops—grade by grade—the skills he or she needs.
+Washington’s Comprehensive Assessment Program (WCAP) is a collection of assessments administered statewide. Smarter Balanced tests are the WCAP tests featured in this Score Guide. These computer-based tests, which students in grades three through eight and high school take each spring, were created to gauge each student’s performance as he or she develops—grade by grade—the skills he or she needs.
 
 <button role="button" class="btn-blue" data-link="{{ site.baseurl }}/about">Learn More About Smarter Balanced</button>
 
@@ -52,7 +52,7 @@ A simple guide to reading and understanding the Smarter Balanced Student Score R
 
 ## Is My Student on Track?
 
-The skills and information our students are learning are meant to help them graduate ready to go on to college and a successful career. Smarter Balanced scores provide one gauge of their progress. 
+The skills and information our students are learning are meant to help them graduate ready to go on to college and a successful career. Smarter Balanced scores provide one gauge of their progress.
 
 <button type="button" class="btn-green" data-link="{{ site.baseurl }}/progress">Follow Your Student's Progress</button>
 

@@ -15,7 +15,7 @@ sections:
 
 * For more information, including accessing the Smarter Balanced practice and training tests, visit [the WCAP Web portal](http://wa.portal.airast.org/).
 * [Washington’s rigorous learning standards](http://www.k12.wa.us/CurriculumInstruct/default.aspx) for English language arts/literacy (ELA) and mathematics.
-* For more information on the accessibility supports available for Smarter Balanced testing….
+* For more information on the accessibility supports available for Smarter Balanced testing read the *Guidelines on Tools, Supports, & Accommodations for State Assessments* document. It is available in the User Guides & Manuals folder of the [Students & Families](http://wa.portal.airast.org/resources/?section=1) section of the WCAP Portal.
 
 ## Parent Guides
 
