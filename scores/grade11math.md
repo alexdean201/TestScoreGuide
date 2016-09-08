@@ -41,8 +41,8 @@ Higher Ed Placement Agreement (HEPA) Status: Ready for college-level mathematics
 
 Under the HEPA—which is a collaboration of Washington’s community and technical colleges, all public and most private four-year universities, and the Office of Superintendent of Public Instruction—the student’s mathematics score indicates he or she is considered ready for college-level mathematics coursework. Review the information on the [Bridge to College web page](http://www.k12.wa.us/CurriculumInstruct/BridgetoCollege/) to see how this status can help avoid the need for placement testing upon enrolling in higher ed.
 
-- [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_1.pdf)
-- [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_2.pdf)
+- [Sample item: Concepts and Procedures]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_1.pdf)
+- [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G11_Problem_Solving_and_Modeling_Standard_Met.pdf)
 
 </div>
 <div class="accordion" markdown="1">
@@ -57,7 +57,6 @@ Under the HEPA—which is a collaboration of Washington’s community and techni
 
 Assessment Graduation Requirement Cut Score: In August 2015, the Washington State Board of Education set a minimum score of 2595 (which is within Level 2) for graduation. It remains a goal of the Board that all students will earn at least a Level 3 on the high school Smarter Balanced exams. As students and the system adjust to new standards and new assessments, the Board will revisit the minimum score that students need to graduate.
 
-- [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G11_Problem_Solving_and_Modeling_Standard_Nearly_Met.pdf)
 - [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_1.pdf)
 - [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_2.pdf)
 

@@ -28,6 +28,7 @@ The student has made progress and exceeded the grade three standard for English 
 - [Sample item: Reading #1]({{ site.baseurl }}/pdf/ELA_G03_Reading_Standard_Exceeded_1.pdf)
 - [Sample item: Reading #2]({{ site.baseurl }}/pdf/ELA_G03_Reading_Standard_Exceeded_2.pdf)
 - [Sample item: Reading #3]({{ site.baseurl }}/pdf/ELA_G03_Reading_Standard_Exceeded_3.pdf)
+- [Sample item: Listening]({{ site.baseurl }}/pdf/ELA_G03_Listening_Standard_Exceeded.pdf)
 
 </div>
 <div class="accordion" markdown="1">
@@ -36,7 +37,6 @@ The student has made progress and exceeded the grade three standard for English 
 
 The student has made progress and met the grade three standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample item: Listening]({{ site.baseurl }}/pdf/ELA_G03_Listening_Standard_Met.pdf)
 
 </div>
 <div class="accordion" markdown="1">

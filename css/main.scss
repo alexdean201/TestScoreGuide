@@ -119,3 +119,14 @@ $byclaim-background-color: #ffffe8;
   font-size: 80%;
   letter-spacing: 0px;
 }
+.sections {
+  margin-left:0 !important;
+}
+.side-by-side {
+  width: 35%;
+}
+@media (max-width:979px) {
+  .side-by-side {
+    width: 65%;
+  }
+}
