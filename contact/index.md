@@ -17,12 +17,5 @@ sections:
 Assessment and Student Information**<br />
 PO Box 47200<br />
 Olympia, Washington 98504-7200<br />
-Phone: 360-725-6000<br />
+Phone: 360-725-6348<br />
 E-mail: <a href="mailto:assessment@k12.wa.us">assessment@k12.wa.us</a>
-
-
-**Washington Comprehensive Assessment Program Help Desk**<br />
-Toll-Free Phone Support: 1-844-560-7366<br />
-Email Support: wahelpdesk@air.org<br />
-
-For additional Washington Comprehensive Assessment Program (WCAP) information, view the testing contractor’s [WCAP Web site](http://wa.portal.airast.org/).
