@@ -4,96 +4,120 @@
 
 	var gradeRanges = {
 		"ela3" : [
-			{ "range": "not-met",    "text": "2114-2366" },
+			{ "range": "not-met",    "text": "2001–2366" },
 			{ "range": "nearly-met", "text": "2367-2431" },
 			{ "range": "met",        "text": "2432-2489" },
-			{ "range": "exceeded",   "text": "2490-2623" }
+			{ "range": "exceeded",   "text": "2490-2811" }
 		],
 		"math3" : [
-			{ "range": "not-met",    "text": "2189-2380" },
+			{ "range": "not-met",    "text": "2071–2380" },
 			{ "range": "nearly-met", "text": "2381-2435" },
 			{ "range": "met",        "text": "2436-2500" },
-			{ "range": "exceeded",   "text": "2501-2621" }
+			{ "range": "exceeded",   "text": "2501-2762" }
 		],
 		"ela4" : [
-			{ "range": "not-met",    "text": "2131-2415" },
+			{ "range": "not-met",    "text": "2032–2415" },
 			{ "range": "nearly-met", "text": "2416-2472" },
 			{ "range": "met",        "text": "2473-2532" },
-			{ "range": "exceeded",   "text": "2533-2663" }
+			{ "range": "exceeded",   "text": "2533-2867" }
 		],
 		"math4" : [
-			{ "range": "not-met",    "text": "2204-2410" },
+			{ "range": "not-met",    "text": "2090–2410" },
 			{ "range": "nearly-met", "text": "2411-2484" },
 			{ "range": "met",        "text": "2485-2548" },
-			{ "range": "exceeded",   "text": "2549-2659" }
+			{ "range": "exceeded",   "text": "2549-2834" }
 		],
 		"ela5" : [
-			{ "range": "not-met",    "text": "2201-2441" },
+			{ "range": "not-met",    "text": "2056–2441" },
 			{ "range": "nearly-met", "text": "2442-2501" },
 			{ "range": "met",        "text": "2502-2581" },
-			{ "range": "exceeded",   "text": "2582-2701" }
+			{ "range": "exceeded",   "text": "2582-2916" }
 		],
 		"math5" : [
-			{ "range": "not-met",    "text": "2219-2454" },
+			{ "range": "not-met",    "text": "2095–2454" },
 			{ "range": "nearly-met", "text": "2455-2527" },
 			{ "range": "met",        "text": "2528-2578" },
-			{ "range": "exceeded",   "text": "2579-2700" }
+			{ "range": "exceeded",   "text": "2579-2891" }
 		],
 		"ela6" : [
-			{ "range": "not-met",    "text": "2210-2456" },
+			{ "range": "not-met",    "text": "2079–2456" },
 			{ "range": "nearly-met", "text": "2457-2530" },
 			{ "range": "met",        "text": "2531-2617" },
-			{ "range": "exceeded",   "text": "2618-2724" }
+			{ "range": "exceeded",   "text": "2618-2937" }
 		],
 		"math6" : [
-			{ "range": "not-met",    "text": "2235-2472" },
+			{ "range": "not-met",    "text": "2103–2472" },
 			{ "range": "nearly-met", "text": "2473-2551" },
 			{ "range": "met",        "text": "2552-2609" },
-			{ "range": "exceeded",   "text": "2610-2748" }
+			{ "range": "exceeded",   "text": "2610-2911" }
 		],
 		"ela7" : [
-			{ "range": "not-met",    "text": "2258-2478" },
+			{ "range": "not-met",    "text": "2082–2478" },
 			{ "range": "nearly-met", "text": "2479-2551" },
 			{ "range": "met",        "text": "2552-2648" },
-			{ "range": "exceeded",   "text": "2649-2745" }
+			{ "range": "exceeded",   "text": "2649-2964" }
 		],
 		"math7" : [
-			{ "range": "not-met",    "text": "2250-2483" },
+			{ "range": "not-met",    "text": "2108–2483" },
 			{ "range": "nearly-met", "text": "2484-2566" },
 			{ "range": "met",        "text": "2567-2634" },
-			{ "range": "exceeded",   "text": "2635-2778" }
+			{ "range": "exceeded",   "text": "2635-2964" }
 		],
 		"ela8" : [
-			{ "range": "not-met",    "text": "2288-2486" },
+			{ "range": "not-met",    "text": "2097–2486" },
 			{ "range": "nearly-met", "text": "2487-2566" },
 			{ "range": "met",        "text": "2567-2667" },
-			{ "range": "exceeded",   "text": "2668-2769" }
+			{ "range": "exceeded",   "text": "2668-2989" }
 		],
 		"math8" : [
-			{ "range": "not-met",    "text": "2265-2503" },
+			{ "range": "not-met",    "text": "2113–2503" },
 			{ "range": "nearly-met", "text": "2504-2585" },
 			{ "range": "met",        "text": "2586-2652" },
-			{ "range": "exceeded",   "text": "2653-2802" }
+			{ "range": "exceeded",   "text": "2653-2993" }
+		],
+		"ela9" : [
+			{ "range": "not-met",    "text": "2102–2487" },
+			{ "range": "nearly-met", "text": "2488–2570" },
+			{ "range": "met",        "text": "2571–2669" },
+			{ "range": "exceeded",   "text": "2670–3032" }
+		],
+		"math9" : [
+			{ "range": "not-met",    "text": "2118–2514" },
+			{ "range": "nearly-met", "text": "2515–2598" },
+			{ "range": "met",        "text": "2599–2675" },
+			{ "range": "exceeded",   "text": "2676–3085" }
+		],
+		"ela10" : [
+				{ "range": "not-met",    "text": "2102–2490" },
+				{ "range": "nearly-met", "text": "2491–2576" },
+				{ "range": "met",        "text": "2577–2676" },
+				{ "range": "exceeded",   "text": "2677–3032" }
+			],
+		"math10" : [
+				{ "range": "not-met",    "text": "2118–2528" },
+				{ "range": "nearly-met", "text": "2529–2613" },
+				{ "range": "met",        "text": "2614–2696" },
+				{ "range": "exceeded",   "text": "2697–3085" }
 		],
 		"ela11" : [
-			{ "range": "not-met",    "text": "2299-2492" },
+			{ "range": "not-met",    "text": "2102–2492" },
 			{ "range": "nearly-met", "text": "2493-2582" },
 			{ "range": "met",        "text": "2583-2681" },
-			{ "range": "exceeded",   "text": "2682-2795" }
+			{ "range": "exceeded",   "text": "2682-3032" }
 		],
 		"math11" : [
-			{ "range": "not-met",    "text": "2280-2542" },
+			{ "range": "not-met",    "text": "2118–2542" },
 			{ "range": "nearly-met", "text": "2543-2627" },
 			{ "range": "met",        "text": "2628-2717" },
-			{ "range": "exceeded",   "text": "2718-2862" }
+			{ "range": "exceeded",   "text": "2718-3085" }
 		]
 	};
-	
+
 function updateSubjects(g) {
-	
+
 	// the first subject option is always the same
 	var subjectOptions = '<option value="-1" aria-hidden="true">Select subject </option>';
-	
+
 	if( g == "-1" ) {
 		// reset the subject dropdown if the grade resets
 		subjectOptions += '<option value="-1" aria-hidden="true">First select a grade</option>';
@@ -101,18 +125,18 @@ function updateSubjects(g) {
 		// update the subject dropdown
 		// with the available subjects
 		subjectOptions += '<option value="ela">English language arts/literacy</option>';
-		subjectOptions += '<option value="math">Mathematics</option>';				
+		subjectOptions += '<option value="math">Mathematics</option>';
 	}
 	// update the dom with the correct list of subjects
-	$('select#subject').html(subjectOptions);	
-		
+	$('select#subject').html(subjectOptions);
+
 } // end updateSubjects
 
 function updateRanges(g,s) {
 	var selectedGrade = g;
 	var selectedSubject = s;
 	var rangeName = selectedSubject + selectedGrade;
-	
+
 	// the firt 'subject' is always the same
 	var rangeOptions = '<option value="-1" aria-hidden="true">Select score range</option>';
 	if( selectedSubject == "-1" ) {
@@ -124,12 +148,12 @@ function updateRanges(g,s) {
 		// loop through the range options
 		// for( var ii  = 0; ii < gradeRanges[rangeName].length; ii++ ){ // not-met to exceeded
 		for( var ii = gradeRanges[rangeName].length-1; ii >= 0 ; ii-- ){    // exceeded to not-met
-		
+
 			// console.log(ii);
-			
+
 			var t = gradeRanges[rangeName][ii].text;
 			var r = gradeRanges[rangeName][ii].range;
-			
+
 			switch (r) {
 				case 'not-met':
 					// t = 'Standard Not Met (Level 1): ' + t;
@@ -150,21 +174,21 @@ function updateRanges(g,s) {
 					// t = 'Standard Exceeded (Level 4): ' + t;
 					t = 'Standard Exceeded: ' + t;
 					break;
-					
+
 				default:
 					break;
 			}
-			
+
 			rangeOptions += "<option value='" + r + "'>" + t + "</option>";
-		}				
+		}
 	}
 	// update the dom with the correct ranges
 	$('select#range').html(rangeOptions);
-	
+
 } // end updateRanges
-	
+
 function disableGetScores() {
-	$('#get-scores').attr({'disabled':'disabled'});	
+	$('#get-scores').attr({'disabled':'disabled'});
 } // end disableGetScores
 
 function enableGetScores() {
@@ -173,12 +197,12 @@ function enableGetScores() {
 
 
 $(function(){
-	
+
 	// console.log('scores');
-	
+
 	// disable the 'get-scores' button until the grade, subject and range have been selected
 	disableGetScores();
-	
+
 	// handle the grade-subject-range dropdowns
 	//
 	$('select#grade').on('change',function(){
@@ -191,7 +215,7 @@ $(function(){
 		updateRanges($('#grade option:selected').val(),$('#subject option:selected').val());
 		disableGetScores();
 	});
-	
+
 	// try and select the current grade+subject on a scores pages
 	// the currentpage hidden attribute may contain the information we're looking for
 	//
@@ -199,24 +223,24 @@ $(function(){
 	if( currentpageinfo ) {
 		grade = currentpageinfo.match(/\d+/);
 		subject = currentpageinfo.match(/math|ela/);
-		
+
 		$('#grade').val(grade);
 		updateSubjects($('#grade option:selected').val());
 		$('#subject').val(subject);
 		updateRanges($('#grade option:selected').val(),$('#subject option:selected').val());
 		$('#range').val($.parseQuery().range);
-		
+
 	} else {
 		// console.log('no match');
-	}	
-	
+	}
+
 	$('#range').on('change',function(){
 		( $(this).val() == "-1" ) ? disableGetScores() : enableGetScores();
 	});
-	
+
 	$('#get-scores').on('click',function(e){
 		e.preventDefault;
- 
+
 		baseUrl = $('input[type="hidden"][name="baseUrl"]').val();
 		go = false;
 		errMsg = "";
@@ -224,11 +248,11 @@ $(function(){
 		grade = $('#grade').val();
 		subject = $('#subject').val();
 		range = $('#range').val();
-				
-		if( grade == '3' || grade == '4' || grade == '5' || grade == '6' || grade == '7' || grade == '8' || grade == '11' ){
+
+		if( grade == '3' || grade == '4' || grade == '5' || grade == '6' || grade == '7' || grade == '8' || grade == '9' || grade == '10' || grade == '11' ){
 			if( subject == 'ela' || subject == 'math' ) {
 				if( range == 'exceeded' || range == 'met' || range == 'nearly-met' || range == 'not-met' ){
-					go = true;					
+					go = true;
 					// console.log('ok');
 					scoreFor = 'grade'+ grade + subject+'.html?range='+range;
 				} else {
@@ -243,7 +267,7 @@ $(function(){
 			go = false;
 			errMsg = "Select your student's grade";
 		}
-		
+
 		if( go ){
 			// console.log('get-scores: '+ scoreFor);
 			// console.log('base '+baseUrl);
@@ -263,13 +287,13 @@ $(function(){
 			bellowsId = 'expand-'+ $trigger.attr('id').substr(5);
 
 		$trigger.detach();
-		
+
 		$accordion.wrapInner('<div class="bellows" id="'+ bellowsId +'" />');
 		// $accordion.prepend($trigger.prepend('<svg class="icon icon-menu-staus"><use xlink:href="#icon-menu-closed"></use></svg>'));
 		$accordion.prepend($trigger.prepend('<span class="status-open-close closed">+</span>'));
-		
+
 		var $content = $accordion.find('.bellows');
-		
+
 		$trigger
 			.attr({
 				'tabindex': '0',
@@ -277,9 +301,9 @@ $(function(){
 				'aria-controls': bellowsId,
 				'aria-label': 'expand description for standard ' + bellowsId.substr(7).replace('-',' '),
 				'aria-expanded': 'false'
-			})			
+			})
 			.on('click',function(){
-				var contentWasVisible = $content.is(':visible');				
+				var contentWasVisible = $content.is(':visible');
 				$content.slideToggle({
 					duration: 200,
 					complete: function(anime,progr,remain){
@@ -294,21 +318,21 @@ $(function(){
 							// 	.find('svg')
 							// 		.html('<use xlink:href="#icon-menu-closed"></use>');
 							//
-							// i <3 ie 
+							// i <3 ie
 							// https://github.com/jquery/sizzle/issues/322
 							//
 							// hack here
-							
+
 							// $trigger.find('svg').remove();
 							// $trigger.prepend('<svg class="icon icon-menu-staus"><use xlink:href="#icon-menu-closed" /></svg>');
-							
+
 						} else {
 							// bellows visible
 							$trigger.attr({'aria-expanded':'true'})
 							// $trigger
 							//	.find('svg')
 							//		.toggleClass('foo')
-							//		.html('<use xlink:href="#icon-menu-open"></use>');	
+							//		.html('<use xlink:href="#icon-menu-open"></use>');
 
 							// $trigger.find('svg').remove();
 							// $trigger.prepend('<svg class="icon icon-menu-staus"><use xlink:href="#icon-menu-open" /></svg>');
@@ -329,57 +353,57 @@ $(function(){
 								$trigger.attr({'aria-expanded':'false'})
 								// $trigger
 								// 	.find('svg')
-								// 		.html('<use xlink:href="#icon-menu-closed"></use>');	
-								
+								// 		.html('<use xlink:href="#icon-menu-closed"></use>');
+
 								// $trigger.find('svg').remove();
 								// $trigger.prepend('<svg class="icon icon-menu-staus"><use xlink:href="#icon-menu-closed" /></svg>');
-								
+
 							} else {
 								// bellows visible
 								$trigger.attr({'aria-expanded':'true'})
 								// $trigger
 								// 	.find('svg')
-								// 		.html('<use xlink:href="#icon-menu-open"></use>');	
-								
+								// 		.html('<use xlink:href="#icon-menu-open"></use>');
+
 								// $trigger.find('svg').remove();
 								// $trigger.prepend('<svg class="icon icon-menu-staus"><use xlink:href="#icon-menu-open" /></svg>');
-							
+
 							}
 						}
 					});
 				}
 			})
-			;	
+			;
 	}); // end accordions.each
-	
+
 	// handle the standard-by-claim buttons
 	//
 	$('.by-claim .triggers a').on('click',function(e){
 		e.preventDefault();
 		// console.log('by-claim .triger click ' + $(this).attr('id').substr(8) );
-	
+
 		$(this).parents('.triggers').find('a').removeClass('on'); // remove all the trigger highlights
 		$(this).parents('.standards').find('.std').removeClass('on'); // hide all the standards
 		$(this).addClass('on'); // highlight the selected trigger
 		$('#'+$(this).attr('id').substr(8)).addClass('on'); // show the selected standard
-		
+
 	});
-	
+
 	// $('.by-claim .triggers a[id$="above"]').click();
 	$('.by-claim .triggers').after('<div class="std on text-italic">Select student’s claim (area) level on the left</div>');
-	
+
 	// if a range has been selected, open that range accordion
 	var qString = $.parseQuery();
 	var r = qString.range;
 	if( $('#desc-'+r).exists() ) {
 		$('#desc-'+r).click();
 	}
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
 }); // end document.ready
 
 // fin

@@ -1,7 +1,7 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 6 ELA
-keywords: overall score, achievement levels, content standards, area performance level
+title: Understanding Student Scores for Grade 9 ELA
+keywords: overall score, achievement levels, content standards, area performance level, EAP
 description:
 ---
 
@@ -9,60 +9,61 @@ description:
 
 Understanding Scores
 
-# Grade Six English Language Arts/Literacy
+# Grade Nine English Language Arts/Literacy
 
-## What are the knowledge and skills the student is expected to learn in grade six English language arts/literacy?
+## What are the knowledge and skills the student is expected to learn in grade nine English language arts/literacy?
 
-In grade six, students read a range of challenging books, articles, and texts and are expected to demonstrate their understanding of the material by answering questions and contributing to class discussions. In writing, students continue to work on their use of language, sentence structure, and organization of ideas. They are also expected to integrate information from different sources and respond to challenging content through written interpretation and analysis.
+In grade nine, students closely and critically read complex works of literature and informational texts. In writing and through class discussions, students interpret what they read and present analyses based on appropriate examples and evidence from the text. They assess the strength of an author’s or speaker’s points and assumptions based on evidence from the text. Additionally, students expand their literary and cultural knowledge by reading great classic and contemporary works representative of various time periods, cultures, and worldviews. High school students develop the skill, fluency, and concentration to produce high-quality writing, as well as the capacity to edit and improve their writing over multiple drafts.
 
 ## Overall Achievement
 
-The student took a Smarter Balanced assessment based on the grade six [Idaho Content Standards](http://sde.idaho.gov/academic/standards/) for English language arts/literacy and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
+The student took a Smarter Balanced assessment based on the grade nine [Idaho Content Standards](http://sde.idaho.gov/academic/standards/) for English language arts/literacy and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
 
 <div class="accordion" markdown="1">
 
-### Standard Exceeded (Level 4): 2618–2937 {#desc-exceeded}
+### Standard Exceeded (Level 4): 2670–3032 {#desc-exceeded}
 
-The student has made progress and exceeded the grade six standard for English language arts/literacy. The student appears ready for future coursework.
+The student exceeded the grade nine standard for English language arts/literacy and is ready for future coursework.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G06_Reading_Standard_Exceeded.pdf)
+- [Sample Item: Reading #1]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Exceeded_1.pdf)
+- [Sample Item: Reading #2]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Exceeded_2.pdf)
+- [Sample Item: Reading #3]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Exceeded_3.pdf)
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Met (Level 3): 2531–2617 {#desc-met}
+### Standard Met (Level 3): 2571–2669 {#desc-met}
 
-The student has made progress and met the grade six standard for English language arts/literacy. The student appears ready for future coursework.
+The student met the grade nine standard for English language arts/literacy and appears ready for future coursework.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G06_Reading_Standard_Met.pdf)
-
-</div>
-<div class="accordion" markdown="1">
-
-### Standard Nearly Met (Level 2): 2457–2530 {#desc-nearly-met}
-
-The student nearly met the grade six standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
-
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G06_Reading_Standard_Nearly_Met.pdf)
+- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Met.pdf)
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Not Met (Level 1): 2079–2456 {#desc-not-met}
+### Standard Nearly Met (Level 2): 2488–2570 {#desc-nearly-met}
 
-The student did not meet the grade six standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
+The student nearly met the grade nine standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
+
+- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Nearly_Met.pdf)
 
 </div>
+<div class="accordion" markdown="1">
 
+### Standard Not Met (Level 1): 2102–2487  {#desc-not-met}
+
+The student did not meet the grade nine standard for English language arts/literacy and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
+
+</div>
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry. These four claims are based on [Idaho's Content Standards](http://sde.idaho.gov/academic/standards/), which describe the knowledge and skills students are expected to learn in grade six.
+The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry.
+These four claims are based on [Idaho's Content Standards](http://sde.idaho.gov/academic/standards/), which describe the knowledge and skills students are expected to learn in grade nine.
 
 If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
 
 To view a description of the student’s achievement level claim (i.e., area), select either **Above Standard**, **Near Standard**, or **Below Standard** from the student-level selections available in the table below.
-
 
 <div class="by-claim reading">
 	<div class="claim">
@@ -73,7 +74,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<li>central ideas;</li>
 			<li>word meaning;</li>
 			<li>reasoning and evidence;</li>
-			<li>analysis within and across texts</li>
+			<li>analysis within and across texts;</li>
 			<li>text structures and features; and</li>
 			<li>language use.</li>
 		</ul>
@@ -86,15 +87,15 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="reading-above" class="std">
 			<p class="hide">Above Standard</p>
-			<p>The student demonstrates a thorough ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of high complexity. </p>
+			<p>The student demonstrates a thorough ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories; plays; poems; drama; nonfiction; and eighteenth, nineteenth, and early twentieth century works of American literature) of high complexity. </p>
 		</div>
 		<div id="reading-near" class="std">
 			<p class="hide">At or Near Standard</p>
-			<p>The student demonstrates some ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of moderate complexity. </p>
+			<p>The student demonstrates some ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories; plays; poems; drama; nonfiction; and eighteenth, nineteenth, and early twentieth century works of American literature) of moderate complexity.</p>
 		</div>
 		<div id="reading-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of moderate complexity. </p>
+			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories; plays; poems; drama, nonfiction; and eighteenth, nineteenth, and early twentieth century works of American literature) of moderate complexity.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -108,7 +109,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		<ul>
 			<li>a strong grasp of organization;</li>
 			<li>a strong sense of purpose (e.g., telling a story, explaining information, or making an argument);</li>
-			<li>an attention to audience (e.g., who will read the piece of writing and does the tone and style reflect this?);</li>
+			<li>an attention to audience (e.g., who will read the piece of writing, and does the tone and style reflect this?);</li>
 			<li>a strong grasp of language conventions (e.g., using proper grammar and punctuation); and</li>
 			<li>a sufficient level of detail and evidence to support the writing.</li>
 		</ul>
@@ -121,7 +122,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="writing-above" class="std">
 			<p class="hide">Above Standard</p>
-			<p>The student demonstrates a thorough ability to produce well-organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p>
+			<p>The student demonstrates a thorough ability to produce well organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p>
 		</div>
 		<div id="writing-near" class="std">
 			<p class="hide">At or Near Standard</p>
@@ -129,7 +130,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="writing-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p>
+			<p>The student does not yet demonstrate an ability to produce well organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -168,8 +169,8 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		<h3>Research/Inquiry</h3>
 		<p>The Research/Inquiry claim (i.e., area) assesses the student’s ability to investigate topics and analyze, integrate, and present information. These skills involve:</p>
 		<ul>
-			<li>analyzing information in a text;</li>
-			<li>using the information to support an idea or argument; and</li>
+			<li>gathering, analyzing, and bringing together many sources of information;</li>
+			<li>using all of the information to support and present an idea or argument; and</li>
 			<li>making decisions about the value and usefulness of the information as well as the source of the information.</li>
 		</ul>
 	</div>

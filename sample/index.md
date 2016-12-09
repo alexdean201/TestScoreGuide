@@ -1,28 +1,23 @@
 ---
 layout: default
-title: Sample Student Score Report
-keywords: annotated score report, score report guide, handout
-description: 
+title: Sample ISAT Student Score Report
+keywords: annotated Student Score Report, sample Student Score Report, handout, Understanding Your Student’s Scores
+description: This web page provides an overview of the ISAT Student Score Report’s layout and provides a downloadable PDF handout for easy offline use.
 ---
 
-# Understanding the California Assessment of Student Performance and Progress (CAASPP) Student Score Reports
+# Understanding the Idaho Standards Achievement Test (ISAT) Student Score Reports
 
-The Student Score Report includes results from the Smarter Balanced English Language Arts/Literacy and Mathematics tests, which reflect California’s rigorous academic standards. These tests include a wide range of questions and include tasks that ask students to explain how they solved problems. These tests also allow students to demonstrate analytical writing and critical thinking as well as their knowledge of facts. To learn more about these tests, 
-visit the California Department of Education [CAASPP Summative Assessments Web page](http://www.cde.ca.gov/ta/tg/ca/).
+The Student Score Report includes results from the Smarter Balanced English Language Arts/Literacy and Mathematics tests, which reflect Idaho's rigorous content standards. These tests include a wide range of questions and include tasks that ask students to explain how they solved problems. These tests also allow students to demonstrate analytical writing and critical thinking as well as their knowledge of facts. To learn more about these tests,
+visit the Idaho State Department of Education [ISAT Comprehensive Assessments System web page](http://sde.idaho.gov/assessment/isat-cas/).
 
-<button type="button" class="btn-blue" data-link="http://www.cde.ca.gov/ta/tg/ca/caasppssreports.asp">See CAASPP Student Score Report Guides</button>
-
-
-You can also watch the “Understanding the CAASPP Student Score Report” video in 
-[English](https://www.youtube.com/watch?v=PoxPJtFbBKE) or in 
-[Spanish](https://www.youtube.com/watch?v=nH5akLIA69w).
+<button type="button" class="btn-blue" data-link="http://sde.idaho.gov/assessment/isat-cas/">See ISAT Student Score Report Guides</button>
 
 
-## Student Score Report Sample
+## Sample ISAT Student Score Report
 
-<div class="block" markdown="1"> 
+<div class="block" markdown="1">
 
-The following is a sample Student Score Report presented for illustrative purposes. Content differs for each grade.
+The following is a Sample Student Score Report presented for illustrative purposes.
 
 <div class="page">
 	<a class="link-img" href="{{ site.baseurl }}/img/score-guide/Annotated-CAASPP-SSRGrade5-front.png"><img src="{{ site.baseurl }}/img/score-guide/Annotated-CAASPP-SSRGrade5-front.png" alt="sample student score report front page with the sections below highlighted" /></a>
@@ -36,16 +31,16 @@ The following is a sample Student Score Report presented for illustrative purpos
 
 
 
-<div class="block w-sections"> 
+<div class="block w-sections">
 
 	<h2>Overall Scores</h2>
 
 	<div class="container">
-	
+
 		<div class="page sm">
 			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-front-1-4.png"><img src="{{ site.baseurl }}/img/score-guide/page-front-1-4.png" alt="sample student score report front page with the sections 1 and 4 highlighted" /></a>
 		</div>
-		
+
 		<div class="sections">
 
 			<div class="section">
@@ -69,7 +64,7 @@ The following is a sample Student Score Report presented for illustrative purpos
 
 
 
-<div class="block w-sections"> 
+<div class="block w-sections">
 
 	<h2>Overall Scores as Bar Graphs</h2>
 
@@ -78,7 +73,7 @@ The following is a sample Student Score Report presented for illustrative purpos
 		<div class="page sm">
 			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-front-2-5.png"><img src="{{ site.baseurl }}/img/score-guide/page-front-2-5.png" alt="sample student score report front page with the sections 2 and 5 highlighted" /></a>
 		</div>
-		
+
 		<div class="sections">
 
 			<div class="section side-by-side">
@@ -105,7 +100,7 @@ The following is a sample Student Score Report presented for illustrative purpos
 
 
 
-<div class="block w-sections"> 
+<div class="block w-sections">
 
 	<h2>The Student's Performance within a Claim (Area)</h2>
 
@@ -114,7 +109,7 @@ The following is a sample Student Score Report presented for illustrative purpos
 		<div class="page sm">
 			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-front-3-6.png"><img src="{{ site.baseurl }}/img/score-guide/page-front-3-6.png" alt="sample student score report front page with the sections 3 and 6 highlighted" /></a>
 		</div>
-		
+
 		<div class="sections">
 
 			<div class="section side-by-side">
@@ -156,16 +151,16 @@ If the student received a score of “No Score Available” for any claim, this 
 
 
 
-<div class="block w-sections"> 
+<div class="block w-sections">
 
 	<h2>Achievement level</h2>
 
 	<div class="container">
-	
+
 		<div class="page sm">
 			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-back-7.png"><img src="{{ site.baseurl }}/img/score-guide/page-back-7.png" alt="sample student score report back page with the section 7 highlighted" /></a>
 		</div>
-		
+
 		<div class="sections">
 
 			<div class="section">
@@ -176,7 +171,7 @@ If the student received a score of “No Score Available” for any claim, this 
 				<p markdown="1">
 
 (7) This portion shows the range of scores at each achievement level. These ranges vary by subject (i.e., ELA and mathematics) and grade level, and reflect the increased difficulty of the standards as students advance from one grade to the next.
-				
+
 				</p>
 			</div>			
 		</div>
@@ -186,7 +181,7 @@ If the student received a score of “No Score Available” for any claim, this 
 
 
 
-<div class="block w-sections"> 
+<div class="block w-sections">
 
 	<h2>Achievement level</h2>
 
@@ -195,7 +190,7 @@ If the student received a score of “No Score Available” for any claim, this 
 		<div class="page sm">
 			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-back-8.png"><img src="{{ site.baseurl }}/img/score-guide/page-back-8.png" alt="sample student score report back page with the section 8 highlighted" /></a>
 		</div>
-		
+
 		<div class="sections">
 
 			<div class="section">
@@ -206,11 +201,9 @@ If the student received a score of “No Score Available” for any claim, this 
 				<p markdown="1">
 
 (8) For grades five, eight, and ten, this portion shows the student’s score on the California Standards Test (CST) for Science. California is currently transitioning to the Next Generation Science Standards. As part of the transition to the new standards, tests aligned to the new standards are under development. The CST for Science is not aligned to the Next Generation Science Standards, but must be administered to meet federal test requirements.
-				
+
 				</p>
 			</div>			
 		</div>
 	</div><!-- /.container -->
 </div><!-- /.block -->
-
-

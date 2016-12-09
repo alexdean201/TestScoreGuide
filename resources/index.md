@@ -1,8 +1,8 @@
 ---
 layout: page-right-rail
 title: Resources Page
-keywords: parent guides, parent roadmaps, CDE CAASPP web site
-description: 
+keywords: parent guides, parent roadmaps, Idaho State Department of Education, Idaho Standards Assessment Test, SDE ISAT website
+description: This Web page provides links to additional content, which parents/guardians, students, and interested educators can use to better understand the ISAT Student Score Report.
 
 sections:
    rail: |
@@ -11,25 +11,12 @@ sections:
 
 # Resources
 
-## About the California Assessment of Student Performance and Progress (CAASPP)
+## About the Idaho Standards Achievement Test (ISAT)
 
-* The [CAASPP &mdash; *CalEdFacts* Web page](http://www.cde.ca.gov/ta/tg/ai/cefcaaspp.asp) provides a more detailed overview of the system and its components. 
-* The [CAASPP Chart](http://www.cde.ca.gov/ta/tg/ai/calassesssystem15.asp) describes the tests administered to California’s students in the 2015–16 school year as part of the [CAASPP System](http://www.cde.ca.gov/ta/tg/ca/). For more information, including ordering paper-pencil tests and accessing the Smarter Balanced Practice and Training Tests, visit the [CAASPP Web portal](http://caaspp.org/).
-* [California's rigorous academic standards](http://www.cde.ca.gov/re/cc/) for ELA and mathematics.
-* For more information on the accessibility supports available for Smarter Balanced testing, visit the California Department of Education [Student Accessibility Supports Web page](http://www.cde.ca.gov/ta/tg/ca/accesssupport.asp).
-* [California Parent Teacher Association](http://capta.org/focus-areas/education/student-assessments/) &mdash; This web site provides resources and information about the new Smarter Balanced assessments built to help students, parents, teachers, and school leaders know where students are on the path to success. Included on this Web site are updated resources to help understand the student's CAASPP scores.
-* [Common Core State Standards Resources (CCSS) for Parents and Guardians](http://www.cde.ca.gov/re/cc/ccssresourcesparents.asp)&mdash;These resources have been compiled for parents and guardians interested in learning more about the Common Core State Standards (CCSS) and how to support attainment of these standards.
-
-## Parent Guides
-
-The Parent Guides provide additional information about the Smarter Balanced Online Summative Assessments, including sample test items for ELA and mathematics. This information will help parents better understand CAASPP results and Student Score Reports.
-
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 3-5 (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde35.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 3-5, Spanish translation (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde35spa.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 6-8 (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde68.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 6-8, Spanish translation (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde68spa.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grade 11 (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde11.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grade 11, Spanish translation (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde11spa.pdf)
+* The ISAT Comprehensive Assessment System Web page provides a more detailed overview of the system and its components.
+*	The Idaho Standards Assessment Program 2016-2017 Testing Dates/Windows Web page summarizes the assessments Idaho students will take this school year.
+*	Idaho’s rigorous content standards for English language arts/literacy (ELA), Mathematics, and other subjects.  
+*	For more information on the accessibility supports available for Smarter Balanced testing, see the [Usability, Accessibility, and Accommodations Guidelines](http://www.smarterbalanced.org/wp-content/uploads/2015/09/Usability-Accessibility-Accommodations-Guidelines.pdf).
 
 ## Parent Roadmaps
 
@@ -51,5 +38,4 @@ These grade- and subject-specific documents provided by the Council of the Great
 * [Parent Roadmap–Supporting the Student in High School, Mathematics](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_Math_HS_Final.pdf)
 
 
-Visit the [California Department of Education’s Web site](http://www.cde.ca.gov/nr/re/ht/caasppfaq.asp) for answers to Frequently Asked Questions.
-
+Visit the [Idaho State Department of Education’s ISAT Assessments website](http://sde.idaho.gov/assessment/isat-cas/isat/index.html) for answers to Frequently Asked Questions.

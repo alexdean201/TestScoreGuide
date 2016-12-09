@@ -1,8 +1,8 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 11 ELA 
-keywords: overall score, achievement levels, content standards, area performance level, EAP
-description: 
+title: Understanding Student Scores for Grade 11 ELA
+keywords: overall score, achievement levels, content standards, area performance level
+description:
 ---
 
 <div class="herring" markdown="1">
@@ -13,23 +13,17 @@ Understanding Scores
 
 ## What are the knowledge and skills the student is expected to learn in grade eleven English language arts/literacy?
 
-In grade eleven, students closely and critically read complex works of literature and informational texts. In writing and through class discussions, students interpret what they read and present analyses based on appropriate examples and evidence from the text. They assess the strength of an author’s or speaker’s points and assumptions based on evidence from the text. Additionally, students expand their literary and cultural knowledge by reading great classic and contemporary works representative of various time periods, cultures, and worldviews. High school students develop the skill, fluency, and concentration to produce high-quality writing, as well as the capacity to edit and improve their writing over multiple drafts. 
+In grade eleven, students closely and critically read complex works of literature and informational texts. In writing and through class discussions, students interpret what they read and present analyses based on appropriate examples and evidence from the text. They assess the strength of an author’s or speaker’s points and assumptions based on evidence from the text. Additionally, students expand their literary and cultural knowledge by reading great classic and contemporary works representative of various time periods, cultures, and worldviews. High school students develop the skill, fluency, and concentration to produce high-quality writing, as well as the capacity to edit and improve their writing over multiple drafts.
 
 ## Overall Achievement
 
-The student took a Smarter Balanced assessment based on the grade eleven [California academic standards](http://www.cde.ca.gov/be/st/ss/index.asp) for English language arts/literacy and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
+The student took a Smarter Balanced assessment based on the grade eleven [Idaho Content Standards](http://sde.idaho.gov/academic/standards/) for English language arts/literacy and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
 
 <div class="accordion" markdown="1">
 
-### Standard Exceeded (Level 4): 2682–2795 {#desc-exceeded}
+### Standard Exceeded (Level 4): 2682–3032 {#desc-exceeded}
 
 The student exceeded the grade eleven standard for English language arts/literacy and is ready for future coursework.
-
-Early Assessment Program (EAP) Status: Ready for English college-level coursework
-
-Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s 
-California Assessment of Student Performance and Progress overall score indicates he or she is considered ready for English college-level work. 
-Review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
 
 - [Sample Item: Reading #1]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Exceeded_1.pdf)
 - [Sample Item: Reading #2]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Exceeded_2.pdf)
@@ -42,10 +36,6 @@ Review the information on the [CSU Success Web page](http://csusuccess.org/) to 
 
 The student met the grade eleven standard for English language arts/literacy and appears ready for future coursework.
 
-Early Assessment Program (EAP) Status: Conditionally ready for English college-level coursework
-
-Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is considered conditionally ready for English college-level work. Students earning a status of conditionally ready can be exempt from the CSU’s placement test and the Early Start Program by taking an approved senior year course and earning a grade of C or better. If the student earned a conditionally ready status, we encourage you to reach out to the administrators and teachers at the student’s school about enrolling the student in an approved senior year English course. In addition, review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
-
 - [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Met.pdf)
 
 </div>
@@ -55,29 +45,21 @@ Under the EAP—which is a collaboration of the California State University (CSU
 
 The student nearly met the grade eleven standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-Early Assessment Program (EAP) Status: Not yet demonstrating readiness for English college-level coursework
-
-Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not yet demonstrating readiness for English college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
-
 - [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G11_Reading_Standard_Nearly_Met.pdf)
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Not Met (Level 1): 2299-2492  {#desc-not-met}
+### Standard Not Met (Level 1): 2102–2492  {#desc-not-met}
 
 The student did not meet the grade eleven standard for English language arts/literacy and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
-
-Early Assessment Program (EAP) Status: Not demonstrating readiness for English college-level coursework.
-
-Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not demonstrating readiness for English college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
 
 </div>
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry. 
-These four claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade eleven. 
+The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry.
+These four claims are based on [Idaho's Content Standards](http://sde.idaho.gov/academic/standards/), which describe the knowledge and skills students are expected to learn in grade eleven.
 
 If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
 
@@ -113,7 +95,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="reading-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories; plays; poems; drama, nonfiction; and eighteenth, nineteenth, and early twentieth century works of American literature) of moderate complexity.</p> 
+			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories; plays; poems; drama, nonfiction; and eighteenth, nineteenth, and early twentieth century works of American literature) of moderate complexity.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -148,7 +130,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="writing-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to produce well organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p> 
+			<p>The student does not yet demonstrate an ability to produce well organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -176,7 +158,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="listening-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to use effective listening skills.</p> 
+			<p>The student does not yet demonstrate the ability to use effective listening skills.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -208,7 +190,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="research-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p> 
+			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 	</div>
 	<div class="clear"></div>

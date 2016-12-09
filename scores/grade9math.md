@@ -1,6 +1,6 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 11 Math
+title: Understanding Student Scores for Grade 9 Math
 keywords: overall score, achievement levels, content standards, area performance level, EAP
 description:
 ---
@@ -9,55 +9,48 @@ description:
 
 Understanding Scores
 
-# Grade Eleven Mathematics
+# Grade Nine Mathematics
 
 ## What are the knowledge and skills the student is expected to learn in grade eleven mathematics?
 
-In grade eleven, students develop a deep understanding of mathematical concepts and use mathematical ways of thinking to solve real-world problems. Unlike previous grades where learning objectives are organized by grade level, high school learning objectives are organized by conceptual categories—such as algebra, functions, or geometry—that students will learn in various mathematics courses. These categories build on what students learned in grade eight and move toward greater depth of knowledge and skills throughout high school.
+In grade nine, students develop a deep understanding of mathematical concepts and use mathematical ways of thinking to solve real-world problems. Unlike previous grades where learning objectives are organized by grade level, high school learning objectives are organized by conceptual categories—such as algebra, functions, or geometry—that students will learn in various mathematics courses. These categories build on what students learned in grade eight and move toward greater depth of knowledge and skills throughout high school.
 
 ## Overall Achievement
 
-The student took a Smarter Balanced assessment based on the grade eleven [Idaho Content Standards](http://sde.idaho.gov/academic/standards/) for mathematics and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
+The student took a Smarter Balanced assessment based on the grade nine [Idaho Content Standards](http://sde.idaho.gov/academic/standards/) for mathematics and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
 
 <div class="accordion" markdown="1">
 
-### Standard Exceeded (Level 4): 2718–3085 {#desc-exceeded}
+### Standard Exceeded (Level 4): 2676–3085 {#desc-exceeded}
 
-The student exceeded the grade eleven standard for mathematics and is ready for future coursework.
+The student exceeded the grade nine standard for mathematics and is ready for future coursework.
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Met (Level 3): 2628–2717 {#desc-met}
+### Standard Met (Level 3): 2599–2675 {#desc-met}
 
-The student met the grade eleven standard for mathematics and appears ready for future coursework.
-
-- [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_1.pdf)
-- [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_2.pdf)
+The student met the grade nine standard for mathematics and appears ready for future coursework.
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Nearly Met (Level 2): 2543–2627  {#desc-nearly-met}
+### Standard Nearly Met (Level 2): 2515–2598  {#desc-nearly-met}
 
-The student nearly met the grade eleven standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
-
-- [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G11_Problem_Solving_and_Modeling_Standard_Nearly_Met.pdf)
-- [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_1.pdf)
-- [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_2.pdf)
+The student nearly met the grade nine standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Not Met (Level 1): 2118–2542 {#desc-not-met}
+### Standard Not Met (Level 1): 2118–2514 {#desc-not-met}
 
-The student did not meet the grade eleven standard for mathematics and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
+The student did not meet the grade nine standard for mathematics and did not demonstrate readiness for future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
 </div>
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These three claims are based on [Idaho's Content Standards](http://sde.idaho.gov/academic/standards/), which describe the knowledge and skills students are expected to learn in grade eleven.
+The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These three claims are based on [Idaho's Content Standards](http://sde.idaho.gov/academic/standards/), which describe the knowledge and skills students are expected to learn in grade nine.
 
 If the student received a score of “No Score Available” for any claims, this means he or she did not complete enough items to receive a score in that area.
 
@@ -143,5 +136,6 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	</div>
 	<div class="clear"></div>
 </div>
+
 
 </div><!-- /.herring -->
