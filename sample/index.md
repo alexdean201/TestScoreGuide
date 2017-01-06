@@ -17,7 +17,7 @@ visit the Idaho State Department of Education [ISAT Comprehensive Assessments Sy
 
 <div class="block" markdown="1">
 
-The following is a [Sample Student Score Report]({{ site.baseurl }}/pdf/Idaho-Sample-Score-Report-Annotated-for-Test-Score-Guide-Website.pdf) presented for illustrative purposes. You can also download a PDF of our score report guide,  [Understanding Your Student's Scores]({{ site.baseurl }}/pdf/Understanding-Your-Student-Scores-Combined.pdf). 
+The following is a [Sample Student Score Report]({{ site.baseurl }}/pdf/Idaho-Sample-Score-Report-Annotated-for-Test-Score-Guide-Website.pdf) presented for illustrative purposes. You can also download a PDF of our score report guide,  [Understanding Your Student's Scores]({{ site.baseurl }}/pdf/Understanding-Your-Student-Scores-Combined.pdf).
 
 
 <div class="page">
