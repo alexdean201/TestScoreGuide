@@ -17,13 +17,14 @@ visit the Idaho State Department of Education [ISAT Comprehensive Assessments Sy
 
 <div class="block" markdown="1">
 
-The following is a Sample Student Score Report presented for illustrative purposes.
+The following is a [Sample Student Score Report]({{ site.baseurl }}/pdf/Idaho-Sample-Score-Report-Annotated-for-Test-Score-Guide-Website.pdf) presented for illustrative purposes. You can also download a PDF of our score report guide,  [Understanding Your Student's Scores]({{ site.baseurl }}/pdf/Understanding-Your-Student-Scores-Combined.pdf). 
+
 
 <div class="page">
-	<a class="link-img" href="{{ site.baseurl }}/img/score-guide/Annotated-CAASPP-SSRGrade5-front.png"><img src="{{ site.baseurl }}/img/score-guide/Annotated-CAASPP-SSRGrade5-front.png" alt="sample student score report front page with the sections below highlighted" /></a>
+	<a class="link-img" href="{{ site.baseurl }}/img/score-guide/annotated-ID-score-report-1.png"><img src="{{ site.baseurl }}/img/score-guide/annotated-ID-score-report-1.png" alt="sample student score report front page with the sections below highlighted" /></a>
 </div>
 <div class="page">
-	<a class="link-img" href="{{ site.baseurl }}/img/score-guide/Annotated-CAASPP-SSRGrade5-back.png"><img src="{{ site.baseurl }}/img/score-guide/Annotated-CAASPP-SSRGrade5-back.png"  alt="sample student score report back page with the sections below highlighted" /></a>
+	<a class="link-img" href="{{ site.baseurl }}/img/score-guide/annotated-ID-score-report-2.png"><img src="{{ site.baseurl }}/img/score-guide/annotated-ID-score-report-2.png"  alt="sample student score report back page with the sections below highlighted" /></a>
 </div>
 
 </div><!-- /.block -->
@@ -33,28 +34,27 @@ The following is a Sample Student Score Report presented for illustrative purpos
 
 <div class="block w-sections">
 
-	<h2>Overall Scores</h2>
+	<h2>Front Page</h2>
 
 	<div class="container">
 
 		<div class="page sm">
-			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-front-1-4.png"><img src="{{ site.baseurl }}/img/score-guide/page-front-1-4.png" alt="sample student score report front page with the sections 1 and 4 highlighted" /></a>
+			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/annotated-ID-score-report-1.png"><img src="{{ site.baseurl }}/img/score-guide/page-front-1-5.png" alt="sample student score report front page with the sections 1 through 5 highlighted" /></a>
 		</div>
 
 		<div class="sections">
 
 			<div class="section">
-				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/section1-g5-ela.png"><img src="{{ site.baseurl }}/img/score-guide/section1-g5-ela.png" alt="section 1" /></a>
+				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/front-1-2.png"><img src="{{ site.baseurl }}/img/score-guide/front-1-2.png" alt="section 1" /></a>
 			</div>
-			<div class="section">
-				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/section4-g5-math.png"><img src="{{ site.baseurl }}/img/score-guide/section4-g5-math.png" alt="section 4" /></a>
-			</div>
-
-
 			<div class="text">
 				<p markdown="1">
 
-(1 and 4) This portion indicates the student’s overall scores, overall statement of progress, and the corresponding achievement level for the English Language Arts/Literacy (ELA) and Mathematics tests. For grade eleven, it also provides an indication of the student’s Early Assessment Program (EAP) results. More information on the EAP is available on the back of the Student Score Report and from the [California State University Success Web page](https://www.csusuccess.org/).
+**(1) Subject Area and Grade Level**: This heading tells you which subject and grade level the score report covers.</p>
+
+	<p markdown="1">
+
+**(2) Summary of Test Performance**: An overview that includes your student’s name, student identification number, scale score, and overall achievement level.
 
 				</p>
 			</div>			
@@ -66,79 +66,31 @@ The following is a Sample Student Score Report presented for illustrative purpos
 
 <div class="block w-sections">
 
-	<h2>Overall Scores as Bar Graphs</h2>
 
 	<div class="container">
 
-		<div class="page sm">
-			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-front-2-5.png"><img src="{{ site.baseurl }}/img/score-guide/page-front-2-5.png" alt="sample student score report front page with the sections 2 and 5 highlighted" /></a>
-		</div>
 
 		<div class="sections">
 
-			<div class="section side-by-side">
-				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/section2-g5-ela.png"><img src="{{ site.baseurl }}/img/score-guide/section2-g5-ela.png" alt="section 2" /></a>
-			</div>
-			<div class="section side-by-side">
-				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/section5-g5-math.png"><img src="{{ site.baseurl }}/img/score-guide/section5-g5-math.png" alt="section 5" /></a>
-			</div>
+		<div class="section">
+			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/front-3-4.png"><img src="{{ site.baseurl }}/img/score-guide/front-3-4.png" alt="section 1" /></a>
+		</div>
 
 
 			<div class="text">
 				<p markdown="1">
-
-(2 and 5) This portion indicates the student’s overall scores and corresponding achievement level displayed in a bar graph. The most recent result is highlighted. If the student took the Smarter Balanced tests last year, the student’s scores from the previous grade are also displayed. (Note: The Student Score Reports for students in grades three and eleven only show one year of results, as these students did not take a Smarter Balanced tests last year.)
-
-				</p>
-			</div>			
-		</div>
-	</div><!-- /.container -->
-</div><!-- /.block -->
+**(3) Your Students' Scale Score and Overall Performance**: Your student’s scale score and where it falls on the four achievement levels. </p>
+<ul>
+<li>Achievement Levels 4 and 3 indicate Above and At Standard.</li>
+<li>Achievement Levels 2 and 1 indicate Near and Below Standard.</li>
+</ul>
 
 
+<p>The small number to the right of your student’s score, following the (±) sign, represents the variance possible in the score if a student tested multiple times with the same assessment.
+</p>
+					<p markdown="1">
 
-
-
-
-<div class="block w-sections">
-
-	<h2>The Student's Performance within a Claim (Area)</h2>
-
-	<div class="container">
-
-		<div class="page sm">
-			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-front-3-6.png"><img src="{{ site.baseurl }}/img/score-guide/page-front-3-6.png" alt="sample student score report front page with the sections 3 and 6 highlighted" /></a>
-		</div>
-
-		<div class="sections">
-
-			<div class="section side-by-side">
-				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/section3-g5-ela.png"><img src="{{ site.baseurl }}/img/score-guide/section3-g5-ela.png" alt="section 3" /></a>
-			</div>
-			<div class="section side-by-side">
-				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/section6-g5-math.png"><img src="{{ site.baseurl }}/img/score-guide/section6-g5-math.png" alt="section 6" /></a>
-			</div>
-
-
-			<div class="text">
-				<p markdown="1">
-
-(3 and 6) This portion indicates the student’s performance within a claim or area for ELA or mathematics. The results by area are for the most recent results only. These results, which provide an indication of areas of strengths and weaknesses, should be considered in light of other information about the student’s academic performance, and may be used in conversations with the student’s teachers to think about how you can work together to help the student continue on a path to success.
-
-				</p>
-				<p markdown="1">
-
-For ELA, results are reported for the areas of Reading, Writing, Listening, and Research/Inquiry.
-
-				</p>
-				<p markdown="1">
-
-For mathematics, results are reported for the areas of Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning.
-
-				</p>
-				<p markdown="1">
-
-If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
+			**(4) Comparison Scores**: Allows you to see how your student’s scale score compares with their peers at the school, district, and state level
 
 				</p>
 			</div>			
@@ -153,24 +105,51 @@ If the student received a score of “No Score Available” for any claim, this 
 
 <div class="block w-sections">
 
-	<h2>Achievement level</h2>
+
+
+	<div class="container">
+
+
+
+		<div class="sections">
+
+		<div class="section">
+			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/front-5.png"><img src="{{ site.baseurl }}/img/score-guide/front-5.png" alt="section 4" /></a>
+		</div>
+
+
+			<div class="text">
+				<p markdown="1">
+
+**(5) Performance Over Time**: This section shows how your student’s scale score has changed over time in the specific subject area. Note that some districts may provide a simplified score report without this information.</p>
+
+			</div>			
+		</div>
+	</div><!-- /.container -->
+</div><!-- /.block -->
+
+
+<div class="block w-sections">
+
+	<h2>Back Page</h2>
 
 	<div class="container">
 
 		<div class="page sm">
-			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-back-7.png"><img src="{{ site.baseurl }}/img/score-guide/page-back-7.png" alt="sample student score report back page with the section 7 highlighted" /></a>
+			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/annotated-ID-score-report-2.png"><img src="{{ site.baseurl }}/img/score-guide/page-back-6-7.png" alt="sample student score report back page with the section 7 highlighted" /></a>
 		</div>
 
 		<div class="sections">
 
 			<div class="section">
-				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/section7-g5.png"><img src="{{ site.baseurl }}/img/score-guide/section7-g5.png" alt="section 7" /></a>
+				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/back-6.png"><img src="{{ site.baseurl }}/img/score-guide/back-6.png" alt="section 7" /></a>
 			</div>
 
 			<div class="text">
 				<p markdown="1">
 
-(7) This portion shows the range of scores at each achievement level. These ranges vary by subject (i.e., ELA and mathematics) and grade level, and reflect the increased difficulty of the standards as students advance from one grade to the next.
+**(6) Student Test Performance**: Your student’s performance on Claims (content areas) within this subject area. Claims are broad statements of the assessment system’s learning outcomes and are aligned to standards. Claim performance is reported as: below standard, at/near standard, or above standard. Similar to the (±) sign in the overall performance section, the green box around the score line represents the variance possible in the claim-level score if a student tested multiple times with the same assessment.  For reporting purposes, there are four Claims in ELA/Literacy and three Claims in Mathematics.
+
 
 				</p>
 			</div>			
@@ -183,24 +162,18 @@ If the student received a score of “No Score Available” for any claim, this 
 
 <div class="block w-sections">
 
-	<h2>Achievement level</h2>
-
 	<div class="container">
-
-		<div class="page sm">
-			<a class="link-img" href="{{ site.baseurl }}/img/score-guide/page-back-8.png"><img src="{{ site.baseurl }}/img/score-guide/page-back-8.png" alt="sample student score report back page with the section 8 highlighted" /></a>
-		</div>
 
 		<div class="sections">
 
 			<div class="section">
-				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/section8-g5.png"><img src="{{ site.baseurl }}/img/score-guide/section8-g5.png" alt="section 8" /></a>
+				<a class="link-img" href="{{ site.baseurl }}/img/score-guide/back-7.png"><img src="{{ site.baseurl }}/img/score-guide/back-7.png" alt="section 8" /></a>
 			</div>
 
 			<div class="text">
 				<p markdown="1">
 
-(8) For grades five, eight, and ten, this portion shows the student’s score on the California Standards Test (CST) for Science. California is currently transitioning to the Next Generation Science Standards. As part of the transition to the new standards, tests aligned to the new standards are under development. The CST for Science is not aligned to the Next Generation Science Standards, but must be administered to meet federal test requirements.
+**(7) Performance on Writing Rubric**: Appearing only in the ELA/Literacy report, this provides detailed descriptions based on your student’s response to the writing task.
 
 				</p>
 			</div>			

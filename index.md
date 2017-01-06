@@ -42,7 +42,7 @@ These computer-based tests, which students in grades three through eight and gra
 
 A simple guide to reading and understanding the ISAT Student Score Report.
 
-<button type="button" class="btn-gray" data-link="{{ site.baseurl }}/sample">Check Out the Samples</button>
+<button type="button" class="btn-gray" data-link="{{ site.baseurl }}/sample/">Check Out the Samples</button>
 
 </div><!-- /.block #score report guide -->
 
@@ -52,7 +52,7 @@ A simple guide to reading and understanding the ISAT Student Score Report.
 
 ## Is My Student on Track?
 
-The skills and information our students are learning are meant to help them graduate ready to go on to college and a successful career. ISAT scores provide one gauge of students' progress. 
+The skills and information our students are learning are meant to help them graduate ready to go on to college and a successful career. ISAT scores provide one gauge of students' progress.
 
 <button type="button" class="btn-green" data-link="{{ site.baseurl }}/progress">Follow Your Student's Progress</button>
 

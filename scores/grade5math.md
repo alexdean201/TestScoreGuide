@@ -68,6 +68,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="claim">
 		<h3>Concepts and Procedures</h3>
 		<p>The Concepts and Procedures claim (i.e., area) assesses the student’s understanding of key mathematical concepts and procedures and the student’s ability to apply these concepts and procedures to solve problems.</p>
+		<p>About 50% of the items align to this claim.</p>
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
@@ -95,6 +96,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="claim">
 		<h3>Problem Solving and Modeling/Data Analysis</h3>
 		<p>The Problem Solving and Modeling/Data Analysis claim (i.e., area) assesses the student’s ability to use appropriate tools and strategies to solve real-world and mathematical problems.</p>
+		<p>About 25% of the items align to this claim.</p>
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
@@ -130,6 +132,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<li>distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in the argument—explain what it is; and</li>
 			<li>base arguments on concrete referents such as objects, drawings, diagrams, and actions.</li>
 		</ul>
+				<p>About 25% of the items align to this claim.</p>
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">

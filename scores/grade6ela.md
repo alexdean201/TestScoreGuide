@@ -77,6 +77,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<li>text structures and features; and</li>
 			<li>language use.</li>
 		</ul>
+		<p>About 35% of the items align to this claim.</p>
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
@@ -112,6 +113,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<li>a strong grasp of language conventions (e.g., using proper grammar and punctuation); and</li>
 			<li>a sufficient level of detail and evidence to support the writing.</li>
 		</ul>
+		<p>About 25% of the items align to this claim.</p>
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
@@ -140,6 +142,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 	<div class="claim">
 		<h3>Listening</h3>
 		<p>The Listening claim (i.e., area) assesses the student’s ability to interpret, analyze, and use spoken language.</p>
+		<p>About 20% of the items align to this claim.</p>
 	</div>
 	<div class="standards">
 		<div class="triggers" aria-hidden="true">
@@ -172,6 +175,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 			<li>using the information to support an idea or argument; and</li>
 			<li>making decisions about the value and usefulness of the information as well as the source of the information.</li>
 		</ul>
+		<p>About 20% of the items align to this claim.</p>
 	</div>
 	<div class="standards" aria-live="polite">
 		<div class="triggers" aria-hidden="true">
