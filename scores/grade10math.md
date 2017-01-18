@@ -32,8 +32,8 @@ The student exceeded the grade ten standard for mathematics and is ready for fut
 
 The student met the grade ten standard for mathematics and appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_1.pdf)
-- [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_2.pdf)
+- [Sample item: Concepts and Procedures]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_1.pdf)
+- [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G11_Problem_Solving_and_Modeling_Standard_Met.pdf)
 
 </div>
 <div class="accordion" markdown="1">
@@ -42,7 +42,6 @@ The student met the grade ten standard for mathematics and appears ready for fut
 
 The student nearly met the grade ten standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) steps to help the student improve.
 
-- [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G11_Problem_Solving_and_Modeling_Standard_Nearly_Met.pdf)
 - [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_1.pdf)
 - [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_2.pdf)
 

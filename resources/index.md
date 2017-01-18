@@ -13,9 +13,9 @@ sections:
 
 ## About the Idaho Standards Achievement Test (ISAT)
 
-* The ISAT Comprehensive Assessment System Web page provides a more detailed overview of the system and its components.
-*	The Idaho Standards Assessment Program 2016-2017 Testing Dates/Windows Web page summarizes the assessments Idaho students will take this school year.
-*	Idaho’s rigorous content standards for English language arts/literacy (ELA), Mathematics, and other subjects.  
+* The [ISAT Comprehensive Assessment System Web page](http://sde.idaho.gov/assessment/isat-cas/) provides a more detailed overview of the system and its components.
+*	The [Idaho Standards Assessment Program 2016-2017 Testing Dates/Windows Web page](http://sde.idaho.gov/assessment/shared/2016-2017-Testing-Dates.pdf) summarizes the assessments Idaho students will take this school year.
+*	[Idaho’s rigorous content standards](http://sde.idaho.gov/academic/standards/) for English language arts/literacy (ELA), Mathematics, and other subjects.  
 *	For more information on the accessibility supports available for Smarter Balanced testing, see the [Usability, Accessibility, and Accommodations Guidelines](http://www.smarterbalanced.org/wp-content/uploads/2015/09/Usability-Accessibility-Accommodations-Guidelines.pdf).
 
 ## Parent Roadmaps

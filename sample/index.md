@@ -148,7 +148,9 @@ The following is a [Sample Student Score Report]({{ site.baseurl }}/pdf/Idaho-Sa
 			<div class="text">
 				<p markdown="1">
 
-**(6) Student Test Performance**: Your student’s performance on Claims (content areas) within this subject area. Claims are broad statements of the assessment system’s learning outcomes and are aligned to standards. Claim performance is reported as: below standard, at/near standard, or above standard. Similar to the (±) sign in the overall performance section, the green box around the score line represents the variance possible in the claim-level score if a student tested multiple times with the same assessment.  For reporting purposes, there are four Claims in ELA/Literacy and three Claims in Mathematics.
+**(6) Student Assessment Performance**: Your student’s performance on Claims (content areas) within this subject area. Claims are broad statements of the assessment system’s learning outcomes and are aligned to standards. Claim performance is reported as: below standard, at/near standard, or above standard. For reporting purposes, there are four Claims in ELA/Literacy and three Claims in Mathematics.		</p>		
+<p>
+Similar to the (±) sign in the overall performance section, the green box around the score line represents the variance possible in the claim-level score if a student tested multiple times with the same assessment.
 
 
 				</p>
@@ -173,7 +175,7 @@ The following is a [Sample Student Score Report]({{ site.baseurl }}/pdf/Idaho-Sa
 			<div class="text">
 				<p markdown="1">
 
-**(7) Performance on Writing Rubric**: Appearing only in the ELA/Literacy report, this provides detailed descriptions based on your student’s response to the writing task.
+**(7) Performance on Writing Task**: Appearing only in the ELA/Literacy report, this provides detailed descriptions based on your student’s response to the writing task.
 
 				</p>
 			</div>			
