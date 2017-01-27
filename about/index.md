@@ -15,4 +15,14 @@ Idaho’s Content Standards—what we want students to know and be able to do—
 
 ## Thousands of Students, One Common Yardstick
 
-Every school is different, and each takes its own approach to teaching, learning, and assessing student progress. Results of any test should be considered along with other measures of learning and in consultation with a student’s teachers. Because ISAT tests are given statewide, they provide an opportunity to measure the skills of all students against the same content standards in the same way, and the results provide information schools can use to improve teaching and learning. Given that the online tests are computer adaptive, the Smarter Balanced Summative Assessments provide a more precise measurement of individual skills.
+Every school is different, and each takes its own approach to teaching, learning, and assessing student progress. Results of any test should be considered along with other measures of learning and in consultation with a student’s teachers. Because ISAT assessments are given statewide, they provide an opportunity to measure the skills of all students against the same content standards in the same way, and the results provide information schools can use to improve teaching and learning. Given that the online tests are computer adaptive, the ISAT provides a more precise measurement of individual skills.
+
+## A Comprehensive Assessment System
+
+The ISAT Summative Assessments are part of a coherent and comprehensive system that also includes:
+
+* A Digital Library for ISAT Formative Assessment which provides resources for teachers to use to help improve student learning; and
+* ISAT Interim Assessments which are optional tests given during the school year to help monitor student progress.
+
+Each of these components is designed to be used together to improve teaching and learning.
+<p class="system" style="text-align:center;"><img style="border:1px solid #a1a3a5;" src="../img/System_components.png" /></p>

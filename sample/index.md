@@ -7,8 +7,7 @@ description: This web page provides an overview of the ISAT Student Score Report
 
 # Understanding the Idaho Standards Achievement Test (ISAT) Student Score Reports
 
-The Student Score Report includes results from the Smarter Balanced English Language Arts/Literacy and Mathematics tests, which reflect Idaho's rigorous content standards. These tests include a wide range of questions and include tasks that ask students to explain how they solved problems. These tests also allow students to demonstrate analytical writing and critical thinking as well as their knowledge of facts. To learn more about these tests,
-visit the Idaho State Department of Education [ISAT Comprehensive Assessments System web page](http://sde.idaho.gov/assessment/isat-cas/).
+The Student Score Report includes results from the Smarter Balanced English Language Arts/Literacy and Mathematics tests, which reflect Idaho's rigorous content standards. These tests include a wide range of questions and include tasks that ask students to explain how they solved problems. These tests also allow students to demonstrate analytical writing and critical thinking as well as their knowledge of facts. To learn more about these tests, visit the Idaho State Department of Education [ISAT Comprehensive Assessments System web page](http://sde.idaho.gov/assessment/isat-cas/).
 
 <button type="button" class="btn-blue" data-link="http://sde.idaho.gov/assessment/isat-cas/">See ISAT Student Score Report Guides</button>
 
@@ -17,7 +16,7 @@ visit the Idaho State Department of Education [ISAT Comprehensive Assessments Sy
 
 <div class="block" markdown="1">
 
-The following is a [Sample Student Score Report]({{ site.baseurl }}/pdf/Idaho-Sample-Score-Report-Annotated-for-Test-Score-Guide-Website.pdf) presented for illustrative purposes. You can also download a PDF of our score report guide,  [Understanding Your Student's Scores]({{ site.baseurl }}/pdf/Understanding-Your-Student-Scores-Combined.pdf).
+The following is a [Sample Student Score Report]({{ site.baseurl }}/pdf/Idaho-Sample-Score-Report-Annotated-for-Test-Score-Guide-Website.pdf) presented for illustrative purposes. <!-- You can also download a PDF of our score report guide,  [Understanding Your Student's Scores]({{ site.baseurl }}/pdf/Understanding-Your-Student-Scores-Combined.pdf). -->
 
 
 <div class="page">
