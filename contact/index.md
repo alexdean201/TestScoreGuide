@@ -11,7 +11,7 @@ sections:
 
 # Contact Information
 
-## California Department of Education
+## Idaho State Department of Education
 
 **Nancy Thomas Price<br />
 Idaho State Department of Education<br />
