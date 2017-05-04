@@ -1,8 +1,8 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 8 ELA 
+title: Understanding Student Scores for Grade 8 ELA
 keywords: overall score, achievement levels, content standards, area performance level, EAP
-description: 
+description:
 ---
 
 <div class="herring" markdown="1">
@@ -13,7 +13,7 @@ Understanding Scores
 
 ## What are the knowledge and skills the student is expected to learn in grade eight English language arts/literacy?
 
-In grade eight, students read major works of fiction and nonfiction from all over the world and from different time periods. They continue to learn how to understand what they read and evaluate an author’s assumptions and claims. They also conduct research that will require the analysis of resources and accurate interpretation of literary and informational text. In their writing, they connect information and ideas efficiently and effectively. 
+In grade eight, students read major works of fiction and nonfiction from all over the world and from different time periods. They continue to learn how to understand what they read and evaluate an author’s assumptions and claims. They also conduct research that will require the analysis of resources and accurate interpretation of literary and informational text. In their writing, they connect information and ideas efficiently and effectively.
 
 ## Overall Achievement
 
@@ -25,7 +25,10 @@ The student took a Smarter Balanced assessment based on the grade eight [Califor
 
 The student has made progress and exceeded the grade eight standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G08_Reading_Standard_Exceeded.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3154)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3074)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3065)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3054)
 
 </div>
 <div class="accordion" markdown="1">
@@ -34,7 +37,9 @@ The student has made progress and exceeded the grade eight standard for English 
 
 The student has made progress and met the grade eight standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G08_Reading_Standard_Met.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3119)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3141)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3068)
 
 </div>
 <div class="accordion" markdown="1">
@@ -43,7 +48,8 @@ The student has made progress and met the grade eight standard for English langu
 
 The student nearly met the grade eight standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G08_Reading_Standard_Nearly_Met.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3127)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3145)
 
 </div>
 <div class="accordion" markdown="1">
@@ -52,12 +58,15 @@ The student nearly met the grade eight standard for English language arts/litera
 
 The student did not meet the grade eight standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3158)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3070)
+
 </div>
 
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry. These four claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade eight. 
+The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry. These four claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade eight.
 
 If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
 
@@ -93,7 +102,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="reading-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of moderate complexity. </p> 
+			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of moderate complexity. </p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -128,7 +137,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="writing-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p> 
+			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -156,7 +165,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="listening-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to use effective listening skills.</p> 
+			<p>The student does not yet demonstrate the ability to use effective listening skills.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -188,7 +197,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="research-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p> 
+			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 	</div>
 	<div class="clear"></div>

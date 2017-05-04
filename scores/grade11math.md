@@ -1,8 +1,8 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 11 Math 
+title: Understanding Student Scores for Grade 11 Math
 keywords: overall score, achievement levels, content standards, area performance level, EAP
-description: 
+description:
 ---
 
 <div class="herring" markdown="1">
@@ -13,7 +13,7 @@ Understanding Scores
 
 ## What are the knowledge and skills the student is expected to learn in grade eleven mathematics?
 
-In grade eleven, students develop a deep understanding of mathematical concepts and use mathematical ways of thinking to solve real-world problems. Unlike previous grades where learning objectives are organized by grade level, high school learning objectives are organized by conceptual categories—such as algebra, functions, or geometry—that students will learn in various mathematics courses. These categories build on what students learned in grade eight and move toward greater depth of knowledge and skills throughout high school. 
+In grade eleven, students develop a deep understanding of mathematical concepts and use mathematical ways of thinking to solve real-world problems. Unlike previous grades where learning objectives are organized by grade level, high school learning objectives are organized by conceptual categories—such as algebra, functions, or geometry—that students will learn in various mathematics courses. These categories build on what students learned in grade eight and move toward greater depth of knowledge and skills throughout high school.
 
 ## Overall Achievement
 
@@ -29,6 +29,10 @@ Early Assessment Program (EAP) Status: Ready for mathematics college-level cours
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is considered ready for mathematics college-level work. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
 
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3517)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3286)
+
 </div>
 <div class="accordion" markdown="1">
 
@@ -40,8 +44,10 @@ Early Assessment Program (EAP) Status: Conditionally ready for mathematics colle
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is considered conditionally ready for mathematics college-level work. Students earning a status of conditionally ready can be exempt from the CSU’s placement test and the Early Start Program by taking an approved senior year course and earning a grade of C or better. If the student earned a conditionally ready status, we encourage you to reach out to the administrators and teachers at the student’s school about enrolling the student in an approved senior year mathematics course. In addition, review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
 
-- [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_1.pdf)
-- [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Met_2.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3517)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3286)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3591)
 
 </div>
 <div class="accordion" markdown="1">
@@ -54,9 +60,7 @@ Early Assessment Program (EAP) Status: Not yet demonstrating readiness for mathe
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
 
-- [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G11_Problem_Solving_and_Modeling_Standard_Nearly_Met.pdf)
-- [Sample item: Concepts and Procedures #1]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_1.pdf)
-- [Sample item: Concepts and Procedures #2]({{ site.baseurl }}/pdf/Math_G11_Concepts_and_Procedures_Standard_Nearly_Met_2.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
 
 </div>
 <div class="accordion" markdown="1">
@@ -69,11 +73,14 @@ Early Assessment Program (EAP) Status: Not demonstrating readiness for mathemati
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
 
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3286)
+
 </div>
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These three claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade eleven. 
+The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These three claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade eleven.
 
 If the student received a score of “No Score Available” for any claims/, this means he or she did not complete enough items to receive a score in that area.
 
@@ -100,7 +107,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="concepts-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to explain and apply mathematical concepts, or the ability to interpret and carry out mathematical procedures with ease and accuracy.</p> 
+			<p>The student does not yet demonstrate the ability to explain and apply mathematical concepts, or the ability to interpret and carry out mathematical procedures with ease and accuracy.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -127,7 +134,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="solving-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to solve a variety of mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student does not yet demonstrate the ability to analyze real-world problems, or build and use mathematical models to interpret and solve problems.</p> 
+			<p>The student does not yet demonstrate the ability to solve a variety of mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student does not yet demonstrate the ability to analyze real-world problems, or build and use mathematical models to interpret and solve problems.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -154,7 +161,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="reasoning-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to put together valid arguments to support his or her own mathematical thinking or to critique the reasoning of others.</p> 
+			<p>The student does not yet demonstrate the ability to put together valid arguments to support his or her own mathematical thinking or to critique the reasoning of others.</p>
 		</div>
 	</div>
 	<div class="clear"></div>

@@ -1,8 +1,8 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 6 ELA 
+title: Understanding Student Scores for Grade 6 ELA
 keywords: overall score, achievement levels, content standards, area performance level, EAP
-description: 
+description:
 ---
 
 <div class="herring" markdown="1">
@@ -25,7 +25,10 @@ The student took a Smarter Balanced assessment based on the grade six [Californi
 
 The student has made progress and exceeded the grade six standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G06_Reading_Standard_Exceeded.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3013)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3000)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2946)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2979)
 
 </div>
 <div class="accordion" markdown="1">
@@ -34,7 +37,9 @@ The student has made progress and exceeded the grade six standard for English la
 
 The student has made progress and met the grade six standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G06_Reading_Standard_Met.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3012)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2963)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2975)
 
 </div>
 <div class="accordion" markdown="1">
@@ -43,7 +48,9 @@ The student has made progress and met the grade six standard for English languag
 
 The student nearly met the grade six standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G06_Reading_Standard_Nearly_Met.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3014)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2947)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2992)
 
 </div>
 <div class="accordion" markdown="1">
@@ -52,12 +59,15 @@ The student nearly met the grade six standard for English language arts/literacy
 
 The student did not meet the grade six standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3022)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3041)
+
 </div>
 
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry. 
+The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry.
 These four claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade six.
 
 If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
@@ -95,7 +105,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="reading-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of moderate complexity. </p> 
+			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of informational texts (e.g., biographies; articles; and other writing covering disciplines like science, social studies, and technical topics) and literary texts (e.g., stories, plays, poems, and science fiction) of moderate complexity. </p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -130,7 +140,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="writing-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p> 
+			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and argumentative) for different purposes and audiences.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -158,7 +168,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="listening-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to use effective listening skills.</p> 
+			<p>The student does not yet demonstrate the ability to use effective listening skills.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -190,7 +200,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="research-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p> 
+			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 	</div>
 	<div class="clear"></div>

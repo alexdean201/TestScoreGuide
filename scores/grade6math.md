@@ -1,8 +1,8 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 6 Math 
+title: Understanding Student Scores for Grade 6 Math
 keywords: overall score, achievement levels, content standards, area performance level, EAP
-description: 
+description:
 ---
 
 <div class="herring" markdown="1">
@@ -13,7 +13,7 @@ Understanding Scores
 
 ## What are the knowledge and skills the student is expected to learn in grade six mathematics?
 
-In grade six, students learn the concepts of rates and ratios and use these tools to solve word problems. They work on quickly and accurately dividing multi-digit whole numbers and adding, subtracting, multiplying, and dividing multi-digit decimals. Students extend their previous work with fractions and decimals to understand the concept of rational numbers—any number that can be made by dividing one integer by another, such as 1/2, –0.75, or 2. Students also learn how to write and solve numerical and algebraic equations—mathematical statements using variables, such as 20+x = 35—and apply these skills in solving multistep word problems. 
+In grade six, students learn the concepts of rates and ratios and use these tools to solve word problems. They work on quickly and accurately dividing multi-digit whole numbers and adding, subtracting, multiplying, and dividing multi-digit decimals. Students extend their previous work with fractions and decimals to understand the concept of rational numbers—any number that can be made by dividing one integer by another, such as 1/2, –0.75, or 2. Students also learn how to write and solve numerical and algebraic equations—mathematical statements using variables, such as 20+x = 35—and apply these skills in solving multistep word problems.
 
 ## Overall Achievement
 
@@ -25,6 +25,11 @@ The student took a Smarter Balanced assessment based on the grade six [Californi
 
 The student has made progress and exceeded the grade six standard for mathematics. The student appears ready for future coursework.
 
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3674)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3511)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3557)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3615)
+
 </div>
 <div class="accordion" markdown="1">
 
@@ -32,7 +37,9 @@ The student has made progress and exceeded the grade six standard for mathematic
 
 The student has made progress and met the grade six standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures]({{ site.baseurl }}/pdf/Math_G06_Concepts_and_Procedures_Standard_Met.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3501)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3336)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3565)
 
 </div>
 <div class="accordion" markdown="1">
@@ -41,7 +48,10 @@ The student has made progress and met the grade six standard for mathematics. Th
 
 The student nearly met the grade six standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Communicating Reasoning]({{ site.baseurl }}/pdf/Math_G06_Communicating_Reasoning_Standard_Nearly_Met.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3499)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3332)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3326)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3399)
 
 </div>
 <div class="accordion" markdown="1">
@@ -50,11 +60,13 @@ The student nearly met the grade six standard for mathematics needed for likely 
 
 The student did not meet the grade six standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3503)
+
 </div>
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These three claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade six. 
+The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These three claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade six.
 
 If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
 
@@ -81,7 +93,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="concepts-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to explain and apply mathematical concepts, or the ability to interpret and carry out mathematical procedures with ease and accuracy.</p> 
+			<p>The student does not yet demonstrate the ability to explain and apply mathematical concepts, or the ability to interpret and carry out mathematical procedures with ease and accuracy.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -108,7 +120,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="solving-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to solve a variety of mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student does not yet demonstrate the ability to analyze real-world problems, or build and use mathematical models to interpret and solve problems.</p> 
+			<p>The student does not yet demonstrate the ability to solve a variety of mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student does not yet demonstrate the ability to analyze real-world problems, or build and use mathematical models to interpret and solve problems.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -135,7 +147,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="reasoning-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to put together valid arguments to support his or her own mathematical thinking or to critique the reasoning of others.</p> 
+			<p>The student does not yet demonstrate the ability to put together valid arguments to support his or her own mathematical thinking or to critique the reasoning of others.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
