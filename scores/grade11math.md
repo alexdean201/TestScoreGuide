@@ -29,9 +29,9 @@ Early Assessment Program (EAP) Status: Ready for mathematics college-level cours
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is considered ready for mathematics college-level work. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3517)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3286)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3270)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3352)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3342)
 
 </div>
 <div class="accordion" markdown="1">
@@ -44,10 +44,10 @@ Early Assessment Program (EAP) Status: Conditionally ready for mathematics colle
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is considered conditionally ready for mathematics college-level work. Students earning a status of conditionally ready can be exempt from the CSU’s placement test and the Early Start Program by taking an approved senior year course and earning a grade of C or better. If the student earned a conditionally ready status, we encourage you to reach out to the administrators and teachers at the student’s school about enrolling the student in an approved senior year mathematics course. In addition, review the information on the [CSU Success Web page](http://csusuccess.org/) to see how this status can help avoid the need for additional testing upon entering a CSU or CCC.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
-- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3517)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3286)
-- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3591)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3358)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3334)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3381)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3318)
 
 </div>
 <div class="accordion" markdown="1">
@@ -60,7 +60,7 @@ Early Assessment Program (EAP) Status: Not yet demonstrating readiness for mathe
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3294)
 
 </div>
 <div class="accordion" markdown="1">
@@ -73,8 +73,8 @@ Early Assessment Program (EAP) Status: Not demonstrating readiness for mathemati
 
 Under the EAP—which is a collaboration of the California State University (CSU), participating California Community Colleges (CCCs), and the California Department of Education—the student’s California Assessment of Student Performance and Progress overall score indicates he or she is not yet demonstrating readiness for mathematics college-level coursework. Review the information on the [CSU Success Web page](http://csusuccess.org/) to see what the student needs to do to enroll in a CSU or CCC.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
-- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3286)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3348)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3308)
 
 </div>
 

@@ -50,6 +50,8 @@ The student nearly met the grade eight standard for English language arts/litera
 
 - [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3127)
 - [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3145)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3070)
+
 
 </div>
 <div class="accordion" markdown="1">
