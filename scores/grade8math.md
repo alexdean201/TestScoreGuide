@@ -36,7 +36,7 @@ The student has made progress and exceeded the grade eight standard for mathemat
 
 The student has made progress and met the grade eight standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3445)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3306)
 - [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3328)
 
 </div>
@@ -48,6 +48,7 @@ The student nearly met the grade eight standard for mathematics needed for likel
 
 - [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3509)
 - [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3346)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3228)
 - [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3633)
 
 </div>

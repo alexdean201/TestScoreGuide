@@ -39,7 +39,7 @@ The student has made progress and exceeded the grade seven standard for mathemat
 
 The student has made progress and met the grade seven standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3543)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3609)
 - [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3583)
 
 </div>
@@ -59,7 +59,7 @@ The student nearly met the grade seven standard for mathematics needed for likel
 
 The student did not meet the grade seven standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3403)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3513)
 
 </div>
 

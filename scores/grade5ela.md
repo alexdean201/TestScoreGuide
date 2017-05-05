@@ -49,7 +49,7 @@ The student nearly met the grade five standard for English language arts/literac
 
 - [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2878)
 - [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2940)
-- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3685)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3684)
 - [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2986)
 
 </div>
