@@ -9,7 +9,7 @@ description: This web page provides an overview of the ISAT Student Score Report
 
 The Student Score Report includes results from the Smarter Balanced English Language Arts/Literacy and Mathematics tests, which reflect Idaho's rigorous content standards. These tests include a wide range of questions and include tasks that ask students to explain how they solved problems. These tests also allow students to demonstrate analytical writing and critical thinking as well as their knowledge of facts. To learn more about these tests, visit the Idaho State Department of Education [ISAT Comprehensive Assessments System web page](http://sde.idaho.gov/assessment/isat-cas/).
 
-<button type="button" class="btn-blue" data-link="http://sde.idaho.gov/assessment/isat-cas/">See ISAT Student Score Report Guides</button>
+<button type="button" class="btn-blue" data-link="http://sde.idaho.gov/assessment/isat-cas/isat/index.html">See ISAT Student Score Report Guides</button>
 
 
 ## Sample ISAT Student Score Report

@@ -25,7 +25,9 @@ The student took a Smarter Balanced assessment based on the grade eight [Idaho C
 
 The student has made progress and exceeded the grade eight standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G08_Problem_Solving_and_Modeling_Standard_Exceeded.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3369)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3559)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3415)
 
 </div>
 <div class="accordion" markdown="1">
@@ -34,9 +36,8 @@ The student has made progress and exceeded the grade eight standard for mathemat
 
 The student has made progress and met the grade eight standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures]({{ site.baseurl }}/pdf/Math_G08_Concepts_and_Procedures_Standard_Met.pdf)
-- [Sample item: Problem Solving and Modeling/Data Analysis #1]({{ site.baseurl }}/pdf/Math_G08_Problem_Solving_and_Modeling_Standard_Met_1.pdf)
-- [Sample item: Problem Solving and Modeling/Data Analysis #2]({{ site.baseurl }}/pdf/Math_G08_Problem_Solving_and_Modeling_Standard_Met_2.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3306)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3328)
 
 </div>
 <div class="accordion" markdown="1">
@@ -45,7 +46,9 @@ The student has made progress and met the grade eight standard for mathematics. 
 
 The student nearly met the grade eight standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Concepts and Procedures]({{ site.baseurl }}/pdf/Math_G08_Concepts_and_Procedures_Standard_Nearly_Met.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3509)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3346)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3633)
 
 </div>
 <div class="accordion" markdown="1">
@@ -53,6 +56,8 @@ The student nearly met the grade eight standard for mathematics needed for likel
 ### Standard Not Met (Level 1): 2113–2503 {#desc-not-met}
 
 The student did not meet the grade eight standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
+
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3483)
 
 </div>
 

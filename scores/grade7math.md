@@ -27,6 +27,11 @@ different levels of achievement would likely answer correctly.
 
 The student has made progress and exceeded the grade seven standard for mathematics. The student appears ready for future coursework.
 
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3517)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3286)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3591)
+
 </div>
 <div class="accordion" markdown="1">
 
@@ -34,8 +39,8 @@ The student has made progress and exceeded the grade seven standard for mathemat
 
 The student has made progress and met the grade seven standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures]({{ site.baseurl }}/pdf/Math_G07_Concepts_and_Procedures_Standard_Met.pdf)
-- [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G07_Problem_Solving_and_Modeling_Standard_Met.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3609)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3583)
 
 </div>
 <div class="accordion" markdown="1">
@@ -44,7 +49,8 @@ The student has made progress and met the grade seven standard for mathematics. 
 
 The student nearly met the grade seven standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Communicating Reasoning]({{ site.baseurl }}/pdf/Math_G07_Communicating_Reasoning_Standard_Nearly_Met.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3641)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3461)
 
 </div>
 <div class="accordion" markdown="1">
@@ -52,6 +58,8 @@ The student nearly met the grade seven standard for mathematics needed for likel
 ### Standard Not Met (Level 1): 2108–2483 {#desc-not-met}
 
 The student did not meet the grade seven standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
+
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3513)
 
 </div>
 

@@ -25,10 +25,10 @@ The student took a Smarter Balanced assessment based on the grade three [Idaho C
 
 The student has made progress and exceeded the grade three standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample item: Reading #1]({{ site.baseurl }}/pdf/ELA_G03_Reading_Standard_Exceeded_1.pdf)
-- [Sample item: Reading #2]({{ site.baseurl }}/pdf/ELA_G03_Reading_Standard_Exceeded_2.pdf)
-- [Sample item: Reading #3]({{ site.baseurl }}/pdf/ELA_G03_Reading_Standard_Exceeded_3.pdf)
-- [Sample item: Listening]({{ site.baseurl }}/pdf/ELA_G03_Listening_Standard_Exceeded.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2889)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2912)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2863)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2926)
 
 </div>
 <div class="accordion" markdown="1">
@@ -37,6 +37,9 @@ The student has made progress and exceeded the grade three standard for English 
 
 The student has made progress and met the grade three standard for English language arts/literacy. The student appears ready for future coursework.
 
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3163)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2876)
+
 </div>
 <div class="accordion" markdown="1">
 
@@ -44,12 +47,17 @@ The student has made progress and met the grade three standard for English langu
 
 The student nearly met the grade three standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3160)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2831)
+
 </div>
 <div class="accordion" markdown="1">
 
 ### Standard Not Met (Level 1): 2001–2366 {#desc-not-met}
 
 The student did not meet the grade three standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
+
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2825)
 
 </div>
 

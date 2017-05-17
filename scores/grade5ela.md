@@ -25,7 +25,9 @@ The student took a Smarter Balanced assessment based on the grade five [Idaho Co
 
 The student has made progress and exceeded the grade five standard for English language arts/literacy. The student appears ready for future coursework.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G05_Reading_Standard_Exceeded.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2871)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2958)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2956)
 
 </div>
 <div class="accordion" markdown="1">
@@ -34,6 +36,10 @@ The student has made progress and exceeded the grade five standard for English l
 
 The student has made progress and met the grade five standard for English language arts/literacy. The student appears ready for future coursework.
 
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2867)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2960)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3047)
+
 </div>
 <div class="accordion" markdown="1">
 
@@ -41,7 +47,10 @@ The student has made progress and met the grade five standard for English langua
 
 The student nearly met the grade five standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G05_Reading_Standard_Nearly_Met.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2878)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2940)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3684)
+- [Sample item: Research/Inquiry](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2986)
 
 </div>
 <div class="accordion" markdown="1">

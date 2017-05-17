@@ -27,6 +27,10 @@ different levels of achievement would likely answer correctly.
 
 The student has made progress and exceeded the grade four standard for mathematics. The student appears ready for future coursework.
 
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3437)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3601)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3451)
+
 </div>
 <div class="accordion" markdown="1">
 
@@ -34,7 +38,9 @@ The student has made progress and exceeded the grade four standard for mathemati
 
 The student has made progress and met the grade four standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Communicating Reasoning]({{ site.baseurl }}/pdf/Math_G04_Communicating_Reasoning_Standard_Met.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3531)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3413)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3637)
 
 </div>
 <div class="accordion" markdown="1">
@@ -43,12 +49,18 @@ The student has made progress and met the grade four standard for mathematics. T
 
 The student nearly met the grade four standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3619)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3547)
+
 </div>
 <div class="accordion" markdown="1">
 
 ### Standard Not Met (Level 1): 2090–2410 {#desc-not-met}
 
 The student did not meet the grade four standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
+
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3467)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3525)
 
 </div>
 
