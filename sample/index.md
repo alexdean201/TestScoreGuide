@@ -94,7 +94,7 @@ The following is a sample Student Score Report presented for illustrative purpos
 			<div class="text">
 				<p markdown="1">
 
-(2 and 5) This portion indicates the student’s overall scores and corresponding achievement level displayed in a bar graph. The most recent result is highlighted. If the student took the Smarter Balanced tests in previous years, the student’s scores from those grades are also displayed. For example, Matthew took the tests in grades three, four, and five, so  the scores for all three years  are displayed. (Note: The Student Score Report for students in grades three and elven only show one year of results, as these students did not take Smarter Balanced tests during the previous two years.)
+(2 and 5) This portion indicates the student’s overall scores and corresponding achievement level displayed in a bar graph. The most recent result is highlighted. If the student took the Smarter Balanced tests in previous years, the student’s scores from those grades are also displayed. For example, Matthew took the tests in grades three, four, and five, so  the scores for all three years  are displayed. (Note: The Student Score Report for students in grades three and eleven only show one year of results, as these students did not take Smarter Balanced tests during the previous two years.)
 
 
 				</p>
