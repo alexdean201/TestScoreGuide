@@ -94,7 +94,8 @@ The following is a sample Student Score Report presented for illustrative purpos
 			<div class="text">
 				<p markdown="1">
 
-(2 and 5) This portion indicates the student’s overall scores and corresponding achievement level displayed in a bar graph. The most recent result is highlighted. If the student took the Smarter Balanced tests last year, the student’s scores from the previous grade are also displayed. (Note: The Student Score Reports for students in grades three and eleven only show one year of results, as these students did not take a Smarter Balanced tests last year.)
+(2 and 5) This portion indicates the student’s overall scores and corresponding achievement level displayed in a bar graph. The most recent result is highlighted. If the student took the Smarter Balanced tests in previous years, the student’s scores from those grades are also displayed. For example, Matthew took the tests in grades three, four, and five, so  the scores for all three years  are displayed. (Note: The Student Score Report for students in grades three and elven only show one year of results, as these students did not take Smarter Balanced tests during the previous two years.)
+
 
 				</p>
 			</div>			
@@ -148,6 +149,10 @@ For mathematics, results are reported for the areas of Concepts and Procedures, 
 If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
 
 				</p>
+<p markdown="1">
+Also provided in this portion is the student’s score history: a side-by-side comparison of the student’s overall performance each year, in both ELA and mathematics, with the state average.
+</p>
+
 			</div>			
 		</div>
 	</div><!-- /.container -->
