@@ -20,4 +20,4 @@ Phone: (208) 332-6988<br />
 E-mail: <a href="mailto:nthomasprice@sde.idaho.gov ">nthomasprice@sde.idaho.gov </a>
 
 
-For additional Idaho Standards Achievement Test (ISAT) information, view the [ISAT Comprehensive Assessment System website](http://sde.idaho.gov/assessment/isat-cas/isat/index.html).
+For additional Idaho Standards Achievement Test (ISAT) information, view the [ISAT Comprehensive Assessment System website](http://sde.idaho.gov/assessment/isat-cas/).
