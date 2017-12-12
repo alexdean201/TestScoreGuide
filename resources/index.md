@@ -2,7 +2,7 @@
 layout: page-right-rail
 title: Resources Page
 keywords: parent guides, parent roadmaps, CDE CAASPP web site
-description: 
+description:
 
 sections:
    rail: |
@@ -13,8 +13,8 @@ sections:
 
 ## About the California Assessment of Student Performance and Progress (CAASPP)
 
-* The [CAASPP &mdash; *CalEdFacts* Web page](http://www.cde.ca.gov/ta/tg/ai/cefcaaspp.asp) provides a more detailed overview of the system and its components. 
-* The [CAASPP Chart](http://www.cde.ca.gov/ta/tg/ai/calassesssystem15.asp) describes the tests administered to California’s students in the 2015–16 school year as part of the [CAASPP System](http://www.cde.ca.gov/ta/tg/ca/). For more information, including ordering paper-pencil tests and accessing the Smarter Balanced Practice and Training Tests, visit the [CAASPP Web portal](http://caaspp.org/).
+* The [CAASPP &mdash; *CalEdFacts* Web page](http://www.cde.ca.gov/ta/tg/ai/cefcaaspp.asp) provides a more detailed overview of the system and its components.
+* The [CAASPP Chart](https://www.cde.ca.gov/ta/tg/ai/calassesssystem.asp) describes the tests administered to California’s students in the 2017–18 school year as part of the [CAASPP System](http://www.cde.ca.gov/ta/tg/ca/). For more information, including ordering paper-pencil tests and accessing the Smarter Balanced Practice and Training Tests, visit the [CAASPP Web portal](http://caaspp.org/).
 * [California's rigorous academic standards](http://www.cde.ca.gov/re/cc/) for ELA and mathematics.
 * For more information on the accessibility supports available for Smarter Balanced testing, visit the California Department of Education [Student Accessibility Supports Web page](http://www.cde.ca.gov/ta/tg/ca/accesssupport.asp).
 * [California Parent Teacher Association](http://capta.org/focus-areas/education/student-assessments/) &mdash; This web site provides resources and information about the new Smarter Balanced assessments built to help students, parents, teachers, and school leaders know where students are on the path to success. Included on this Web site are updated resources to help understand the student's CAASPP scores.
@@ -52,4 +52,3 @@ These grade- and subject-specific documents provided by the Council of the Great
 
 
 Visit the [California Department of Education’s Web site](http://www.cde.ca.gov/nr/re/ht/caasppfaq.asp) for answers to Frequently Asked Questions.
-
