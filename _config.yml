@@ -6,17 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Test Score Guide&#58; CA # &#58; is ":" (cannot have colon in title)
+title: Test Score Guide OR # &#58; is ":" (cannot have colon in title)
 
-sitename: "California Assessment of <span class=\"nowrap\">Student Performance and Progress</span> Test Score Guide"
-statename: "State of California"
+sitename: "Oregon’s Assessment of Knowledge and Skills Test Score Guide"
+statename: "State of Oregon"
 
 
 email: someone@somewhere.org
 description: > # this means to ignore newlines until "baseurl:"
-  something wonderful about the /ca site
-  and then even more stuff about how groovy it 
-  will be when completed.
+  This Web page serves as a gateway to information and resources parents/guardians can use to understand OAKS Smarter Balanced Assessment Student Score Reports.
 
 # baseurl: ""                      # local devlopment path
 # baseurl: "/ca-tsg-new/_site"     # dev path
@@ -34,4 +32,3 @@ markdown: kramdown
 
 kramdown:
    input: GFM
- 

@@ -1,8 +1,8 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 7 Math 
-keywords: overall score, achievement levels, content standards, area performance level, EAP
-description: 
+title: Understanding Student Scores for Grade 7 Math
+keywords: overall score, achievement levels, content standards, area performance level
+description:
 ---
 
 <div class="herring" markdown="1">
@@ -17,50 +17,57 @@ In grade seven, students further develop their understanding of rates and ratios
 
 ## Overall Achievement
 
-The student took a Smarter Balanced assessment based on the grade seven [California academic standards](http://www.cde.ca.gov/be/st/ss/index.asp) for mathematics and received an overall score that ranges from about 2000 to 3000. 
-This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at 
+The student took a Smarter Balanced assessment based on the grade seven [Oregon academic content standards](http://www.oregon.gov/ode/educator-resources/standards/Pages/default.aspx) for mathematics and received an overall score.
+This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at
 different levels of achievement would likely answer correctly.
 
 <div class="accordion" markdown="1">
 
-### Standard Exceeded (Level 4): 2635–2778 {#desc-exceeded}
+### Standard Level 4: 2635 or higher {#desc-exceeded}
 
 The student has made progress and exceeded the grade seven standard for mathematics. The student appears ready for future coursework.
 
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3487)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3517)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3286)
+- [Sample item: Modeling/Data Analysis](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3591)
+
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Met (Level 3): 2567–2634 {#desc-met}
+### Standard Level 3: 2567–2634 {#desc-met}
 
 The student has made progress and met the grade seven standard for mathematics. The student appears ready for future coursework.
 
-- [Sample item: Concepts and Procedures]({{ site.baseurl }}/pdf/Math_G07_Concepts_and_Procedures_Standard_Met.pdf)
-- [Sample item: Problem Solving and Modeling/Data Analysis]({{ site.baseurl }}/pdf/Math_G07_Problem_Solving_and_Modeling_Standard_Met.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3609)
+- [Sample item: Communicating Reasoning](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3583)
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Nearly Met (Level 2): 2484–2566  {#desc-nearly-met}
+### Standard Level 2: 2484–2566  {#desc-nearly-met}
 
 The student nearly met the grade seven standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
 
-- [Sample item: Communicating Reasoning]({{ site.baseurl }}/pdf/Math_G07_Communicating_Reasoning_Standard_Nearly_Met.pdf)
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3641)
+- [Sample item: Problem Solving](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3461)
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Not Met (Level 1): 2250–2483 {#desc-not-met}
+### Standard Level 1: Less than 2484 {#desc-not-met}
 
 The student did not meet the grade seven standard for mathematics needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
+
+- [Sample item: Concepts and Procedures](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=3513)
 
 </div>
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. 
-These three claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade seven. 
+The student’s results are also reported out into the three claims (i.e., areas) that together make up mathematics: Concepts and Procedures, Problem Solving and Modeling/Data Analysis, and Communicating Reasoning. These three claims are based on [Oregon's academic content standards](http://www.oregon.gov/ode/educator-resources/standards/Pages/default.aspx), which describe the knowledge and skills students are expected to learn in grade seven.
 
-If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
+If the student did not receive a score for any claim, this means he or she did not complete enough items to receive claim scores.
 
 To view a description of the student’s achievement level claim (i.e., area), select either **Above Standard**, **Near Standard**, or **Below Standard** from the student-level selections available in the table below.
 
@@ -85,7 +92,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="concepts-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to explain and apply mathematical concepts, or the ability to interpret and carry out mathematical procedures with ease and accuracy.</p> 
+			<p>The student does not yet demonstrate the ability to explain and apply mathematical concepts, or the ability to interpret and carry out mathematical procedures with ease and accuracy.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -112,7 +119,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="solving-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to solve a variety of mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student does not yet demonstrate the ability to analyze real-world problems, or build and use mathematical models to interpret and solve problems.</p> 
+			<p>The student does not yet demonstrate the ability to solve a variety of mathematics problems by applying his or her knowledge of problem-solving skills and strategies. The student does not yet demonstrate the ability to analyze real-world problems, or build and use mathematical models to interpret and solve problems.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -139,7 +146,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="reasoning-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to put together valid arguments to support his or her own mathematical thinking or to critique the reasoning of others.</p> 
+			<p>The student does not yet demonstrate the ability to put together valid arguments to support his or her own mathematical thinking or to critique the reasoning of others.</p>
 		</div>
 	</div>
 	<div class="clear"></div>

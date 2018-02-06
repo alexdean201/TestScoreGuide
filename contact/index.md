@@ -1,8 +1,8 @@
 ---
 layout: page-right-rail
 title: Contact Information
-keywords: CDE contact info, CalTAC contact info, phone number, email
-description: 
+keywords: Oregon Department of Education, ODE contact info, Office of Teaching, Learning, and Assessment, Assessment Department contact info, phone number, e-mail
+description: This Web page provides Oregon Department of Education and the Office of Teaching, Learning, and Assessment contact information.
 
 sections:
    rail: |
@@ -11,15 +11,14 @@ sections:
 
 # Contact Information
 
-## California Department of Education 
+## Oregon Department of Education
 
-**California Department of Education<br />
-Assessment Development and Administration Division**<br />
-1430 N Street, Suite 4409<br />
-Sacramento, CA 95814<br />
-Phone: 916-445-8765<br />
-E-mail: <a href="mailto:caaspp@cde.ca.gov">caaspp@cde.ca.gov</a>
+**Oregon Department of Education<br />
+Office of Teaching, Learning, and Assessment**<br />
+255 Capitol Street NE<br />
+Salem, OR 97310-0203<br />
+Phone: 503-947-5600 <br />
+E-mail: <a href="mailto:ode.frontdesk@ode.state.or.us">ode.frontdesk@ode.state.or.us</a>
 
 
-For additional California Assessment of Student Performance and Progress (CAASPP) information, view the testing contractor’s [CAASPP Web site](http://www.caaspp.org/ ).
-
+For additional information about Oregon's Smarter Balanced Assessment, visit [Oregon Department of Education website](http://www.oregon.gov/ODE/Pages/default.aspx).

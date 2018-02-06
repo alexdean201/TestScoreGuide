@@ -1,10 +1,10 @@
 <head>
 	<title>
 		{% if page.title %}
-		
-			{% capture page_title %}{{ site.title }}: {{page.title | escape }}{% endcapture %}		
+
+			{% capture page_title %}{{ site.title }}: {{page.title | escape }}{% endcapture %}
 			{{ page_title }}
-			
+
 		{% else %}
 			{{ site.title | escape }}
 		{% endif %}
@@ -12,16 +12,18 @@
 
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta name="format-detection" content="telephone=no" />	
+	<meta name="format-detection" content="telephone=no" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<meta name="keywords" content="{{ page.keywords | escape }}" />
 	<meta name="description" content="{{ page.description | escape  }}" />
 
 	{% include fonts.html %}
-	
+
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
-    
+
 	{% include script.html %}
+
+	{% include google_analytics.html %}
 
 </head>

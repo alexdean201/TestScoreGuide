@@ -1,8 +1,8 @@
 ---
 layout: page-right-rail
-title: Resources Page
-keywords: parent guides, parent roadmaps, CDE CAASPP web site
-description: 
+title: Resources
+keywords: parent guides, parent roadmaps, Oregon Department of Education, Oregon's Smarter Balanced Assessment, ODE website
+description: This Web page provides links to additional content, which parents/guardians, students, and interested educators can use to better understand Oregon's Smarter Balanced Individual Student Report.
 
 sections:
    rail: |
@@ -11,45 +11,20 @@ sections:
 
 # Resources
 
-## About the California Assessment of Student Performance and Progress (CAASPP)
+## Oregon's Smarter Balanced Assessment
 
-* The [CAASPP &mdash; *CalEdFacts* Web page](http://www.cde.ca.gov/ta/tg/ai/cefcaaspp.asp) provides a more detailed overview of the system and its components. 
-* The [CAASPP Chart](http://www.cde.ca.gov/ta/tg/ai/calassesssystem15.asp) describes the tests administered to California’s students in the 2015–16 school year as part of the [CAASPP System](http://www.cde.ca.gov/ta/tg/ca/). For more information, including ordering paper-pencil tests and accessing the Smarter Balanced Practice and Training Tests, visit the [CAASPP Web portal](http://caaspp.org/).
-* [California's rigorous academic standards](http://www.cde.ca.gov/re/cc/) for ELA and mathematics.
-* For more information on the accessibility supports available for Smarter Balanced testing, visit the California Department of Education [Student Accessibility Supports Web page](http://www.cde.ca.gov/ta/tg/ca/accesssupport.asp).
-* [California Parent Teacher Association](http://capta.org/focus-areas/education/student-assessments/) &mdash; This web site provides resources and information about the new Smarter Balanced assessments built to help students, parents, teachers, and school leaders know where students are on the path to success. Included on this Web site are updated resources to help understand the student's CAASPP scores.
-* [Common Core State Standards Resources (CCSS) for Parents and Guardians](http://www.cde.ca.gov/re/cc/ccssresourcesparents.asp)&mdash;These resources have been compiled for parents and guardians interested in learning more about the Common Core State Standards (CCSS) and how to support attainment of these standards.
-
-## Parent Guides
-
-The Parent Guides provide additional information about the Smarter Balanced Online Summative Assessments, including sample test items for ELA and mathematics. This information will help parents better understand CAASPP results and Student Score Reports.
-
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 3-5 (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde35.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 3-5, Spanish translation (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde35spa.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 6-8 (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde68.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grades 6-8, Spanish translation (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde68spa.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grade 11 (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde11.pdf)
-* [Parent Guide to Smarter Balanced Summative Assessments, Grade 11, Spanish translation (PDF)](http://www.cde.ca.gov/ta/tg/ca/documents/sbparentgde11spa.pdf)
+* The [Smarter Balanced website](http://www.smarterbalanced.org/about/) provides more information about the system and its components.
+*  Practice tests can be accessed via the [OAKS web portal](http://oaksportal.org/students/).
+* Oregon's state standards and more information regarding Smarter Balanced (including PD resources and other trainings) can be found on the [English language arts (ELA)](http://www.oregon.gov/ode/educator-resources/assessment/Pages/English-Language-Arts.aspx) and [mathematics](http://www.oregon.gov/ode/educator-resources/assessment/Pages/Mathematics.aspx) webpages.
+* For more information on the accessibility supports available for Smarter Balanced testing, visit the [Smarter Balanced Accessibility and Accommodations page](http://www.smarterbalanced.org/assessments/accessibility-and-accommodations/).
 
 ## Parent Roadmaps
 
 These grade- and subject-specific documents provided by the Council of the Great City Schools can help you learn more about student expectations, including the types of learning activities students may encounter in their classroom, and what you can do to help them learn outside of school. You are also encouraged to reach out to the student’s school administration and teachers to talk about ways to help the student succeed.
 
-* [Parent Roadmap–Supporting the Student in Grade Three, English Language Arts](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/114/ParentGuide_ELA_3.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Three, Mathematics](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/149/ParentGuide_Math_3.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Four, English Language Arts](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/114/ParentGuide_ELA_4.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Four, Mathematics](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_Math_4.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Five, English Language Arts](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/114/ParentGuide_ELA_5.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Five, Mathematics](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_Math_5.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Six, English Language Arts](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_ELA_6.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Six, Mathematics](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_Math_6.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Seven, English Language Arts](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_ELA_7.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Seven, Mathematics](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_Math_7.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Eight, English Language Arts](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_ELA_8.pdf)
-* [Parent Roadmap–Supporting the Student in Grade Eight, Mathematics](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_Math_8.pdf)
-* [Parent Roadmap–Supporting the Student in High School, English Language Arts](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_ELA_HS_Final.pdf)
-* [Parent Roadmap–Supporting the Student in High School, Mathematics](http://www.cgcs.org/cms/lib/DC00001581/Centricity/Domain/36/ParentGuide_Math_HS_Final.pdf)
+* [Parent Roadmaps to the Common Core Standards—English Language Arts](https://www.cgcs.org/Page/328)
+* [Guía Para Los Padres (Spanish Parent Roadmaps)—Artes Del Lenguaje en Inglés](https://www.cgcs.org/Page/261)
+* [Parent Roadmaps to the Common Core Standards—Mathematics](https://www.cgcs.org/Page/244)
+* [Guía Para Los Padres (Spanish Parent Roadmaps)—Matemáticas](https://www.cgcs.org/Page/263)
 
-
-Visit the [California Department of Education’s Web site](http://www.cde.ca.gov/nr/re/ht/caasppfaq.asp) for answers to Frequently Asked Questions.
-
+General information about Smarter Balanced can be found on the [Smarter Balanced website](http://www.smarterbalanced.org/).

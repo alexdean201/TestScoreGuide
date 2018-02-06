@@ -1,64 +1,77 @@
 ---
 layout: page-select-grade
-title: Understanding Student Scores for Grade 4 ELA 
-keywords: overall score, achievement levels, content standards, area performance level, EAP
-description: 
+title: Understanding Student Scores for Grade 4 ELA
+keywords: overall score, achievement levels, content standards, area performance level
+description:
 ---
 
 <div class="herring" markdown="1">
 
 Understanding Scores
 
-# Grade Four English Language Arts/Literacy
+# Grade Four English Language Arts
 
-## What are the knowledge and skills the student is expected to learn in grade four English language arts/literacy?
+## What are the knowledge and skills the student is expected to learn in grade four English language arts?
 
 In grade four, students continue to build important reading, writing, listening, and research skills. They read more challenging stories, plays, poems, articles, and other sources of information and continue to grow their vocabulary. They are also expected to clearly explain in detail what they have read by referring to details or information from the text. In writing, students may write stories, essays, reports, and persuasive papers, and learn to organize their ideas and develop topics with reasons, facts, details, and other information.
 
-## Overall Achievement	
+## Overall Achievement
 
-The student took a Smarter Balanced assessment based on the grade four [California academic standards](http://www.cde.ca.gov/be/st/ss/index.asp) for English language arts/literacy and received an overall score that ranges from about 2000 to 3000. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
+The student took a Smarter Balanced assessment based on the grade four [Oregon academic content standards](http://www.oregon.gov/ode/educator-resources/standards/Pages/default.aspx) for English language arts and received an overall score. This overall score falls into one of the four achievement levels shown here. Sample test items may be included that exemplify the kinds of passages and questions that students at different levels of achievement would likely answer correctly.
 
 <div class="accordion" markdown="1">
 
-### Standard Exceeded (Level 4): 2533–2663 {#desc-exceeded}
+### Standard Level 4: 2533 or higher {#desc-exceeded}
 
-The student has made progress and exceeded the grade four standard for English language arts/literacy. The student appears ready for future coursework.
+The student has made progress and exceeded the grade four standard for English language arts. The student appears ready for future coursework.
 
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G04_Reading_Standard_Exceeded.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2858)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2911)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2828)
+- [Sample item: Research](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2872)
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Met (Level 3): 2473–2532 {#desc-met}
+### Standard Level 3: 2473–2532 {#desc-met}
 
-The student has made progress and met the grade four standard for English language arts/literacy. The student appears ready for future coursework.
+The student has made progress and met the grade four standard for English language arts. The student appears ready for future coursework.
 
-</div>
-<div class="accordion" markdown="1">
-
-### Standard Nearly Met (Level 2): 2416–2472 {#desc-nearly-met}
-
-The student nearly met the grade four standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
-
-- [Sample Item: Reading]({{ site.baseurl }}/pdf/ELA_G04_Reading_Standard_Nearly_Met.pdf)
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2899)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2833)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2810)
+- [Sample item: Research](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2928)
 
 </div>
 <div class="accordion" markdown="1">
 
-### Standard Not Met (Level 1): 2131–2415 {#desc-not-met}
+### Standard Nearly Level 2: 2416–2472 {#desc-nearly-met}
 
-The student did not meet the grade four standard for English language arts/literacy needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
+The student nearly met the grade four standard for English language arts needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
+
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2916)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2918)
+- [Sample item: Listening](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2812)
+
+</div>
+<div class="accordion" markdown="1">
+
+### Standard Level 1: Less than 2416 {#desc-not-met}
+
+The student did not meet the grade four standard for English language arts needed for likely success in future coursework. Please discuss with the student’s teacher(s) ways to help the student improve.
+
+- [Sample item: Reading](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2895)
+- [Sample item: Writing](http://sampleitems.smarterbalanced.org/Item/Details?bankKey=187&itemKey=2823)
 
 </div>
 
 
 ## Student Achievement by Claim
 
-The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts/literacy: Reading, Writing, Listening, and Research/Inquiry. 
-These four claims are based on [California’s academic standards](http://www.cde.ca.gov/be/st/ss/index.asp), which describe the knowledge and skills students are expected to learn in grade four.
+The student’s results are also reported out into the four claims (i.e., areas) that together make up English language arts: Reading, Writing, Listening, and Research/Inquiry.
+These four claims are based on [Oregon's academic content standards](http://www.oregon.gov/ode/educator-resources/standards/Pages/default.aspx), which describe the knowledge and skills students are expected to learn in grade four.
 
-If the student received a score of “No Score Available” for any claim, this means he or she did not complete enough items to receive a score in that area.
+If the student did not receive a score for any claim, this means he or she did not complete enough items to receive claim scores.
 
 To view a description of the student’s achievement level claim (i.e., area), select either **Above Standard**, **Near Standard**, or **Below Standard** from the student-level selections available in the table below.
 
@@ -92,7 +105,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="reading-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of literary texts (e.g., stories, plays, and poems) and informational texts (e.g., articles and other writing covering disciplines like science and social studies) of moderate complexity.</p> 
+			<p>The student does not yet demonstrate an ability to read closely and analytically to understand a range of literary texts (e.g., stories, plays, and poems) and informational texts (e.g., articles and other writing covering disciplines like science and social studies) of moderate complexity.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -127,7 +140,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="writing-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and opinion) for different purposes and audiences.</p> 
+			<p>The student does not yet demonstrate an ability to produce organized, developed, and supported writing (e.g., narrative, informational, explanatory, and opinion) for different purposes and audiences.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -155,7 +168,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="listening-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to use effective listening skills.</p> 
+			<p>The student does not yet demonstrate the ability to use effective listening skills.</p>
 		</div>
 	</div>
 	<div class="clear"></div>
@@ -163,8 +176,8 @@ To view a description of the student’s achievement level claim (i.e., area), s
 
 <div class="by-claim research">
 	<div class="claim">
-		<h3>Research/Inquiry</h3>
-		<p>The Research/Inquiry claim (i.e., area) assesses the student’s ability to investigate topics and analyze, integrate, and present information. These skills involve:</p>
+		<h3>Research</h3>
+		<p>The Research claim (i.e., area) assesses the student’s ability to investigate topics and analyze, integrate, and present information. These skills involve:</p>
 		<ul>
 			<li>locating key information in a text;</li>
 			<li>using the information to support an idea or opinion; and</li>
@@ -187,7 +200,7 @@ To view a description of the student’s achievement level claim (i.e., area), s
 		</div>
 		<div id="research-below" class="std">
 			<p class="hide">Below Standard</p>
-			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p> 
+			<p>The student does not yet demonstrate the ability to engage in research and inquiry to investigate topics, and to analyze, integrate, and present information.</p>
 		</div>
 	</div>
 	<div class="clear"></div>

@@ -7,7 +7,7 @@
 	h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 	a, abbr, acronym, address, big, cite, code,
 	del, dfn, em, img, ins, kbd, q, s, samp,
-	small, strike, strong, 
+	small, strike, strong,
 	/* sub, sup, *//* dhj: keep the defaults */
 	tt, var,
 	b, u, i, center,
@@ -79,7 +79,7 @@
 		}
 
 	svg { pointer-events: none; }
-		
+
 /* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 /* helpers */
 
@@ -103,9 +103,9 @@
 	.clearboth {
 		clear: both;
 		}
-		
+
 	.wrap-flex {
-	
+
 		-js-display: flex;
 		/* flexbox setup */
 		display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
@@ -146,9 +146,9 @@
 		margin: 0;
 		overflow-x: hidden;
 		color: $color-body;
-		background-color: $color-body-background;	
+		background-color: $color-body-background;
 		height: 100.1%;   // force the scroll bar to always appear
-		font-family: $font-serifs;
+		font-family: $font-sans-serifs;
 		line-height: $font-lineheight-default;
 		}
 
@@ -157,7 +157,7 @@
 /* headings */
 
 h1,
-h2, 
+h2,
 h3,
 h4,
 h5,
@@ -167,7 +167,7 @@ h6 {
 	font-family: $font-sans-serifs;
     font-style: normal;
     font-weight: 400;
-	letter-spacing: -0.05em;
+	letter-spacing: 0;
 	line-height: $font-lineheight-heading;
 	text-rendering: optimizelegibility;
 	}
@@ -178,13 +178,13 @@ h1 {
 	line-height: 1.05;
 	border-bottom: 1px solid $color-h1-underline;
 	padding-bottom: 0.25rem;
-	}	
-	
+	}
+
 h2, .h2 {
 	color: $color-h2;
 	font-size: $font-size-h2;
-	}	
-	
+	}
+
 h3 {
 	font-size: $font-size-h3;
 	line-height: $font-lineheight-h3;
@@ -193,7 +193,7 @@ h3 {
 h4 {
 	font-size: $font-size-h4;
     margin-bottom: 0.5em;
-	} 
+	}
 h5 {
 	font-size: $font-size-h5;
     margin-bottom: 0.5em;
@@ -202,41 +202,42 @@ h6 {
 	font-size: $font-size-h6;
 	text-transform: uppercase;
     margin-bottom: 0.5em;
-	}		
+	}
 
-h1 ~ p,	
+h1 ~ p,
 p ~ h2 {
 	margin-top: 1.25rem;
-	}	
+	}
 
 h3 + h4 {
 	margin-top:.5em;
 	}
-	
+
 h4 + p {
 	margin-top:-.5em;
-	}	
-	
-	
-		
+	}
+
+
+
 /* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 /* anchors */
-		
-	a {		
+
+	a {
 		text-decoration: none;
 		background-color: transparent;
-		-webkit-transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+		/*-webkit-transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
 		       transition: color 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+*/
 
-		
 		&:visited {
 			}
 
 		&:active,
 		&:hover {
 			outline: 0 !important;
+			text-decoration: underline;
 			}
-			
+
 		&:focus {
 			color: black;
 			background-color: $color-anchor-focus-background;
@@ -244,9 +245,9 @@ h4 + p {
 			outline-offset: 3px;
 			}
 
-			
+
 		}
-	
+
 	a.link-img {
 		border-bottom: 0;
 
@@ -254,9 +255,9 @@ h4 + p {
 		&:focus {
 			border-bottom: 0;
 			}
-		
-		}	
-	
+
+		}
+
 	a.skiplink {
 		position: absolute;
 		left: -10000px;
@@ -273,18 +274,18 @@ h4 + p {
 		text-align: left;
 		font-weight: bold;
 		margin-right: 1em;
-		}	
-	
-	#main a {
+		}
+
+	/*#main a {
 		color: $color-anchor;
 		border-bottom: 1px solid $color-anchor-underline;
-		}
+	}*/
 	#main a:hover {
 		color: $color-anchor-hover;
-		border-bottom: 1px solid $color-anchor-hover-underline;
-		}
-		
-		
+		/*border-bottom: 1px solid $color-anchor-hover-underline;*/
+	}
+
+
 /* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 /* buttons and forms */
 
@@ -310,22 +311,22 @@ h4 + p {
 
 
 	label,
-	input, 
-	button, 
-	select, 
+	input,
+	button,
+	select,
 	textarea {
-		font-family: $font-serifs;
+		font-family: $font-sans-serifs;
 		line-height: $font-lineheight-default;
 		margin: 0;
 		font-size: 100%;
-		vertical-align: middle;	
+		vertical-align: middle;
 		}
 
 	label {
 		display: block;
 		margin-bottom: 2px
-		}		
-			
+		}
+
 	select,
 	textarea,
 	input[type="text"],
@@ -342,7 +343,7 @@ h4 + p {
 		border-radius: $border-radius;
 		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075)
 		}
-		
+
 	input,
 	textarea {
 		width: auto
@@ -355,29 +356,29 @@ h4 + p {
 		cursor: pointer;
 		-webkit-appearance: button
 		}
-		
+
 	textarea {
 		overflow: auto;
 		vertical-align: top;
 		padding: 0 6px;
 		}
-		
+
 	textarea,
 	input[type="text"],
 	input[type="password"] {
 		-webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
-				transition: border linear 0.2s, box-shadow linear 0.2s	
+				transition: border linear 0.2s, box-shadow linear 0.2s
 		}
 
 	textarea:focus,
 	input[type="text"]:focus,
-	input[type="password"]:focus {	
+	input[type="password"]:focus {
 		border-color: rgba(0, 0, 0, 0.3);
 		outline: 0;
 		outline: thin dotted \9;
 		box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(0, 0, 0, 0.2)
-		}	
-		
+		}
+
 	input[type="radio"],
 	input[type="checkbox"] {
 		margin: 0.425em 0;
@@ -388,18 +389,18 @@ h4 + p {
 
 	@media (max-width: 480px) {
 		input[type="radio"],
-		input[type="checkbox"] {	
+		input[type="checkbox"] {
 			border: 1px solid #ccc
 		}
-	}	
-		
+	}
+
 	select {
 		width: auto;
 		height: 2.65em;
 		padding-top: 0.5em;
 		padding-bottom: 0.5em
 		}
-		
+
 	select:focus,
 	input[type="radio"]:focus,
 	input[type="checkbox"]:focus {
@@ -407,7 +408,7 @@ h4 + p {
 		outline: 5px auto $color-underline;
 		outline-offset: -1px
 		}
-			
+
 	input::-webkit-input-placeholder,
 	textarea::-webkit-input-placeholder {
 		color: $color-form-placeholder;
@@ -427,15 +428,15 @@ h4 + p {
 	.checkbox {
 		min-height: 18px;
 		padding-left: 18px
-		}		
-		
+		}
+
 	.radio input[type="radio"],
 	.checkbox input[type="checkbox"] {
 		position: relative;
 		float: left;
 		margin-left: -18px
 		}
-		
+
 	.radio.inline,
 	.checkbox.inline {
 		display: inline-block;
@@ -443,7 +444,7 @@ h4 + p {
 		margin-bottom: 0;
 		vertical-align: middle
 		}
-			
+
 	.radio.inline+.radio.inline,
 	.checkbox.inline+.checkbox.inline {
 		margin-left: 10px
@@ -465,47 +466,47 @@ h4 + p {
 	select[readonly],
 	textarea[readonly] {
 		background-color: $color-form-disabled-background;
-		}	
-			
+		}
+
 	input[type="radio"][disabled],
 	input[type="checkbox"][disabled],
 	input[type="radio"][readonly],
 	input[type="checkbox"][readonly] {
 		background-color: transparent
-		}	
-		
+		}
+
 	.btn-blue {
 		color: #fff;
-		background-color: #007393;
-		border: 1px solid #007393;
+		background-color: #000040;
+		border: 1px solid #000040;
 		border-radius: $border-radius;
-		}	
+		}
 	.btn-blue:hover {
-		background-color: #004355;
-		border-color: #004355;
-		}	
-	
+		background-color: #171768;
+		border-color: #171768;
+		}
+
 	.home .right-wrap button[disabled]:hover,
 	[disabled].btn-blue:hover {
-		background-color: #007393;
-		border-color: #007393;
+		background-color: #171768;
+		border-color: #171768;
 		}
-		
-		
+
+
 	.btn-gray {
 		color: #fff;
 		background-color: #63666A;
 		border: 1px solid #63666A;
 		border-radius: $border-radius;
-		}	
+		}
 	.btn-gray:hover {
 		background-color: #313335;
 		border-color: #313335;
-		}	
-		
+		}
+
 	.btn-green {
 		color: #fff;
-		
+
 		// this green color is from SB but doesn't pass contrast standards; dhj
 		// background-color: #358c21;
 		// border: 1px solid #358c21;
@@ -518,9 +519,9 @@ h4 + p {
 		//
 		background-color: #294baa;
 		border: 1px solid #294baa;
-		
+
 		border-radius: $border-radius;
-		}	
+		}
 	.btn-green:hover {
 		// this green color is from sb but doesn't pass contrast standards; dhj
 		// background-color: #286919;
@@ -530,17 +531,17 @@ h4 + p {
 		// background-color: #1f640f;
 		// border-color: #1f640f;
 		//
-		// 2016-06-09; but now they want a blue instead; dhj 
+		// 2016-06-09; but now they want a blue instead; dhj
 		//
 		background-color: #1d367c;
 		border-color: #1d367c;
-		}	
-				
+		}
+
 	.home button[class^="btn-"] {
 		padding-top: 0.5em;
-		padding-bottom: 0.5em;		
+		padding-bottom: 0.5em;
 		}
-				
+
 	input[disabled],
 	button[disabled],
 	select[disabled],
@@ -550,7 +551,7 @@ h4 + p {
 	textarea[readonly] {
 		cursor: not-allowed;
 		}
-		
+
 /* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 /* tables */
 
@@ -571,14 +572,14 @@ h4 + p {
 		margin: -1px;
 		padding: 0;
 		border: 0;
-		}		
+		}
 
 	table + h2,
 	table + h3,
 	table + h4 {
 		margin-top: 1.25em;
 		}
-		
+
 	table th,
 	table td {
 		padding: 0.5em 0.625em;
@@ -586,25 +587,25 @@ h4 + p {
 		line-height: $font-lineheight-table;
 		vertical-align: middle;
 		}
-		
+
 	table th {
 		font-weight: bold
 		}
 
 	table thead th {
 		vertical-align: bottom
-		}		
-		
-		
+		}
+
+
 /* -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 /* page content (paragraphs, lists, etc) */
-	
+
 	img {
 		max-width: 100%;
 		height: auto;
 		vertical-align: middle;
 		border: 0;
-		-ms-interpolation-mode: bicubic		
+		-ms-interpolation-mode: bicubic
 		}
 
 	hr {
@@ -613,15 +614,15 @@ h4 + p {
 		border: 0;
 		border-top: 1px solid $color-hr;
 		}
-		
+
 
 	p {
 		margin: 0 0 1.313em;
 		}
-		
+
 	small {
 		font-size: 0.8rem;
-		}	
+		}
 
 	li, th, td, dt, dd {
 		}
@@ -632,7 +633,7 @@ h4 + p {
 
 	b,
 	strong,
-	.text-bold { 
+	.text-bold {
 		font-weight: 700;
 		color: $color-bold;
 		}
@@ -641,7 +642,7 @@ h4 + p {
 	i { font-style: italic; }
 	.text-italic { font-style: italic; }
 	.is-pdf { font-style: italic; }
-	
+
 	ol.upper-roman { list-style-type: upper-roman; }
 	ol.decimal { list-style-type: decimal; }
 	ol.upper-alpha { list-style-type: upper-alpha; }
@@ -654,12 +655,12 @@ h4 + p {
 	li {
 		margin-bottom: 0.5em;
 		}
-		
+
 	ul,
 	ol {
 		padding: 0;
 		margin: 0 0 1.313em 1.655em
-		}	
+		}
 
 	ul ul,
 	ul ol,
@@ -674,8 +675,8 @@ h4 + p {
 
 	ol {
 		list-style: decimal
-		}	
-	
+		}
+
 	ul.unstyled,
 	ol.unstyled {
 		margin-left: 0;
@@ -693,6 +694,4 @@ h4 + p {
 		display: inline-block;
 		padding-left: 1em;
 		padding-right: 1em
-		}	
-		
-	
+		}
