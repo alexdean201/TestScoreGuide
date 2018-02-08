@@ -1,8 +1,8 @@
 ---
 layout: page-right-rail
 title: Sample Elements
-keywords: 
-description: 
+keywords:
+description:
 
 sections:
    rail: |
@@ -21,11 +21,11 @@ sections:
 
 ---
 
-This was the first nation in the history of the world to be founded with a purpose. 
-The [great phrases](http://www.google.com) of that purpose still sound in every American heart, North and South: 
+This was the first nation in the history of the world to be founded with a purpose.
+The [great phrases](http://www.google.com) of that purpose still sound in every American heart, North and South:
 **"All men are created equal,"**
-_"government by consent of the governed,"_ 
-*"give me liberty or give me death."* 
+_"government by consent of the governed,"_
+*"give me liberty or give me death."*
 Well, those are not just clever words, or those are not just empty theories. In their name Americans have fought and died for two centuries, and tonight around the world they stand there as guardians of our liberty, risking their lives.
 
 # Header 1 h1 250%
