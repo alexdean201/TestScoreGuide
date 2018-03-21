@@ -5,7 +5,7 @@ keywords: Idaho, Idaho Standards Achievement Test
 description: this web page provides an overview of the Idaho Standards Achievement Test (ISAT) comprehensive system of assessments.
 sections:
    rail: |
-      <p class="fluff"><img src="../img/right-rail-20160609a-280x187.png" /></p>
+      <p class="fluff"><img alt=" " src="../img/right-rail-20160609a-280x187.png" /></p>
 ---
 
 # What Is the Idaho Standards Achievement Test (ISAT)?
