@@ -6,7 +6,7 @@ description: This web page provides an overview of OAKS Smarter Balanced Assessm
 
 sections:
    rail: |
-      <p class="fluff"><img src="../img/right-rail-20160609a-280x187.png" /></p>
+      <p class="fluff"><img alt=" "  src="../img/right-rail-20160609a-280x187.png" /></p>
 ---
 
 # What are the OAKS Smarter Balanced Assessments?

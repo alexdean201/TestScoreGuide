@@ -6,7 +6,7 @@ description: This Web page provides an explanation of what the student's year-to
 
 sections:
    rail: |
-      <p class="fluff"><img src="../img/right-rail-20160609a-280x187.png" /></p>
+      <p class="fluff"><img alt=" " src="../img/right-rail-20160609a-280x187.png" /></p>
 ---
 
 # Understanding Student Progress from Year to Year
