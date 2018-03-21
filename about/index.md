@@ -2,16 +2,16 @@
 layout: page-right-rail
 title: About the CAASPP Assessments
 keywords: CAASPP, California Assessment of Student Performance and Progress
-description: 
+description:
 
 sections:
    rail: |
-      <p class="fluff"><img src="../img/right-rail-20160609a-280x187.png" /></p>
+      <p class="fluff"><img alt=" " src="../img/right-rail-20160609a-280x187.png" /></p>
 ---
 
 # What Is the California Assessment of Student Performance and Progress (CAASPP)?
 
-California’s new academic standards—what we want students to know and be able to do—are designed so students graduate ready for college and a career. These tests were created specifically to gauge each student’s performance in mathematics and English language arts/literacy as he or she develops—grade by grade—the skills called for by the standards, including the ability to write clearly, think critically, and solve problems. Teachers, business leaders, and public colleges and universities all support these long-term learning goals, because they reflect what students need to be prepared for the career and college experiences that await them. 
+California’s new academic standards—what we want students to know and be able to do—are designed so students graduate ready for college and a career. These tests were created specifically to gauge each student’s performance in mathematics and English language arts/literacy as he or she develops—grade by grade—the skills called for by the standards, including the ability to write clearly, think critically, and solve problems. Teachers, business leaders, and public colleges and universities all support these long-term learning goals, because they reflect what students need to be prepared for the career and college experiences that await them.
 
 
 ## Three Million Students, One Common Yardstick
