@@ -117,7 +117,7 @@ function updateSubjects(g) {
 		// with the available subjects
 		subjectOptions += '<option value="ela">English language arts/literacy</option>';
 		subjectOptions += '<option value="math">Mathematics</option>';				
-		subjectOptions += '<option value="math">Science</option>';				
+		subjectOptions += '<option value="sci">Science</option>';				
 	}
 	// update the dom with the correct list of subjects
 	$('select#subject').html(subjectOptions);	
