@@ -263,7 +263,7 @@ $(function(){
 		range = $('#range').val();
 				
 		if( grade == '3' || grade == '4' || grade == '5' || grade == '6' || grade == '7' || grade == '8' || grade == '11' ){
-			if( subject == 'ela' || subject == 'math' ) {
+			if( subject == 'ela' || subject == 'math' || subject == 'sci' ) {
 				if( range == 'exceeded' || range == 'met' || range == 'nearly-met' || range == 'not-met' ){
 					go = true;					
 					// console.log('ok');
