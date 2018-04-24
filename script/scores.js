@@ -86,6 +86,21 @@
 			{ "range": "nearly-met", "text": "2543-2627" },
 			{ "range": "met",        "text": "2628-2717" },
 			{ "range": "exceeded",   "text": "2718-2862" }
+		],
+		"sci5" : [
+			{ "range": "not-met",    "text": "below score range" },
+			{ "range": "met",        "text": "met score range" },
+			{ "range": "exceeded",   "text": "above score range" }
+		],
+		"sci8" : [
+			{ "range": "not-met",    "text": "below score range" },
+			{ "range": "met",        "text": "met score range" },
+			{ "range": "exceeded",   "text": "above score range" }
+		],
+		"sci11" : [
+			{ "range": "not-met",    "text": "below score range" },
+			{ "range": "met",        "text": "met score range" },
+			{ "range": "exceeded",   "text": "above score range" }
 		]
 	};
 	
@@ -98,10 +113,32 @@ function updateSubjects(g) {
 		// reset the subject dropdown if the grade resets
 		subjectOptions += '<option value="-1" aria-hidden="true">First select a grade</option>';
 	} else {
+		switch(g){
+			case '5':
+				subjectOptions += '<option value="ela">English language arts/literacy</option>';
+				subjectOptions += '<option value="math">Mathematics</option>';				
+				subjectOptions += '<option value="sci">Science</option>';
+				break;
+			case '8':
+				subjectOptions += '<option value="ela">English language arts/literacy</option>';
+				subjectOptions += '<option value="math">Mathematics</option>';				
+				subjectOptions += '<option value="sci">Science</option>';
+				break;				
+			case '11':
+				subjectOptions += '<option value="ela">English language arts/literacy</option>';
+				subjectOptions += '<option value="math">Mathematics</option>';				
+				subjectOptions += '<option value="sci">Science</option>';
+				break;
+			default:
+				subjectOptions += '<option value="ela">English language arts/literacy</option>';
+				subjectOptions += '<option value="math">Mathematics</option>';				
+				break;
+		}
 		// update the subject dropdown
 		// with the available subjects
-		subjectOptions += '<option value="ela">English language arts/literacy</option>';
-		subjectOptions += '<option value="math">Mathematics</option>';				
+		//subjectOptions += '<option value="ela">English language arts/literacy</option>';
+		//subjectOptions += '<option value="math">Mathematics</option>';				
+		//subjectOptions += '<option value="sci">Science</option>';				
 	}
 	// update the dom with the correct list of subjects
 	$('select#subject').html(subjectOptions);	
@@ -198,7 +235,7 @@ $(function(){
 	currentpageinfo = $('#currentpageinfo').val();
 	if( currentpageinfo ) {
 		grade = currentpageinfo.match(/\d+/);
-		subject = currentpageinfo.match(/math|ela/);
+		subject = currentpageinfo.match(/math|ela|sci/);
 		
 		$('#grade').val(grade);
 		updateSubjects($('#grade option:selected').val());
@@ -226,7 +263,7 @@ $(function(){
 		range = $('#range').val();
 				
 		if( grade == '3' || grade == '4' || grade == '5' || grade == '6' || grade == '7' || grade == '8' || grade == '11' ){
-			if( subject == 'ela' || subject == 'math' ) {
+			if( subject == 'ela' || subject == 'math' || subject == 'sci' ) {
 				if( range == 'exceeded' || range == 'met' || range == 'nearly-met' || range == 'not-met' ){
 					go = true;					
 					// console.log('ok');
