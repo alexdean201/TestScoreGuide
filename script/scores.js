@@ -235,7 +235,7 @@ $(function(){
 	currentpageinfo = $('#currentpageinfo').val();
 	if( currentpageinfo ) {
 		grade = currentpageinfo.match(/\d+/);
-		subject = currentpageinfo.match(/math|ela/);
+		subject = currentpageinfo.match(/math|ela|sci/);
 		
 		$('#grade').val(grade);
 		updateSubjects($('#grade option:selected').val());
