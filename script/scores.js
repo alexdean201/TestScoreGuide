@@ -86,6 +86,21 @@
 			{ "range": "nearly-met", "text": "2543-2627" },
 			{ "range": "met",        "text": "2628-2717" },
 			{ "range": "exceeded",   "text": "2718-2862" }
+		],
+		"sci5" : [
+			{ "range": "not-met",    "text": "below score range" },
+			{ "range": "met",        "text": "met score range" },
+			{ "range": "exceeded",   "text": "above score range" }
+		],
+		"sci8" : [
+			{ "range": "not-met",    "text": "below score range" },
+			{ "range": "met",        "text": "met score range" },
+			{ "range": "exceeded",   "text": "above score range" }
+		],
+		"sci11" : [
+			{ "range": "not-met",    "text": "below score range" },
+			{ "range": "met",        "text": "met score range" },
+			{ "range": "exceeded",   "text": "above score range" }
 		]
 	};
 	
@@ -102,6 +117,7 @@ function updateSubjects(g) {
 		// with the available subjects
 		subjectOptions += '<option value="ela">English language arts/literacy</option>';
 		subjectOptions += '<option value="math">Mathematics</option>';				
+		subjectOptions += '<option value="math">Science</option>';				
 	}
 	// update the dom with the correct list of subjects
 	$('select#subject').html(subjectOptions);	
