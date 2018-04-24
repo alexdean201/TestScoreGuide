@@ -113,11 +113,32 @@ function updateSubjects(g) {
 		// reset the subject dropdown if the grade resets
 		subjectOptions += '<option value="-1" aria-hidden="true">First select a grade</option>';
 	} else {
+		switch(g){
+			case '5':
+				subjectOptions += '<option value="ela">English language arts/literacy</option>';
+				subjectOptions += '<option value="math">Mathematics</option>';				
+				subjectOptions += '<option value="sci">Science</option>';
+				break;
+			case '8':
+				subjectOptions += '<option value="ela">English language arts/literacy</option>';
+				subjectOptions += '<option value="math">Mathematics</option>';				
+				subjectOptions += '<option value="sci">Science</option>';
+				break;				
+			case '11':
+				subjectOptions += '<option value="ela">English language arts/literacy</option>';
+				subjectOptions += '<option value="math">Mathematics</option>';				
+				subjectOptions += '<option value="sci">Science</option>';
+				break;
+			default:
+				subjectOptions += '<option value="ela">English language arts/literacy</option>';
+				subjectOptions += '<option value="math">Mathematics</option>';				
+				break;
+		}
 		// update the subject dropdown
 		// with the available subjects
-		subjectOptions += '<option value="ela">English language arts/literacy</option>';
-		subjectOptions += '<option value="math">Mathematics</option>';				
-		subjectOptions += '<option value="sci">Science</option>';				
+		//subjectOptions += '<option value="ela">English language arts/literacy</option>';
+		//subjectOptions += '<option value="math">Mathematics</option>';				
+		//subjectOptions += '<option value="sci">Science</option>';				
 	}
 	// update the dom with the correct list of subjects
 	$('select#subject').html(subjectOptions);	
